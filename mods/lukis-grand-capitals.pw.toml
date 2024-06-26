@@ -1,6 +1,6 @@
 name = "Luki's Grand Capitals"
 filename = "luki-s-grand-capitals-0.7-forge-1.19-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8Lw09aLb/versions/bzU7MXet/luki-s-grand-capitals-0.7-forge-1.19-1.20.1.jar"
