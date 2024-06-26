@@ -1,0 +1,6 @@
+
+{
+  "type": "gobber2:gobber2_codec",
+  "biomes": "#minecraft:is_nether",
+  "feature": "gobber2:gobber2_lucky_block_nether_placed"
+}

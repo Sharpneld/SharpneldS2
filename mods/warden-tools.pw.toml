@@ -1,0 +1,13 @@
+name = "Warden Tools"
+filename = "wardentools-2.4.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1b534577d189e538f3b9e90ebdd1001f3254edd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5049791
+project-id = 635510

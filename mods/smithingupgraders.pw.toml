@@ -1,0 +1,13 @@
+name = "SmithingUpgraders+"
+filename = "smithingupgradersplus+0.0.1+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CoNJObMZ/versions/cMtA3w2c/smithingupgradersplus%2B0.0.1%2B1.20.1%2Bfabric.jar"
+hash-format = "sha1"
+hash = "0e420efa81d5a79836c3edaf2d1ff4158c1b46b4"
+
+[update]
+[update.modrinth]
+mod-id = "CoNJObMZ"
+version = "cMtA3w2c"

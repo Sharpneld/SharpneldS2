@@ -1,0 +1,18 @@
+name = "Mouse Tweaks"
+filename = "MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d751153e722a4e014691c83f39f5b07c6ec5333c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5338457
+project-id = 60089
+
+[option]
+optional = true
+default = true
+description = "Atajos utiles con el mouse y la capacidad de mover elementos rapidamente con la rueda de desplazamiento."

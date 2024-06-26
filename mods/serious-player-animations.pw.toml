@@ -1,0 +1,13 @@
+name = "Serious Player Animations"
+filename = "seriousplayeranimations-1.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "71a8848197eab2b580d1f4749df362182105d0f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5228786
+project-id = 975080

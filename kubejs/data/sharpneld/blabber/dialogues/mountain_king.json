@@ -1,0 +1,121 @@
+{
+    "layout": {
+      "type": "blabber:rpg"
+    },
+    "states": {
+      "start": {
+        "text": "It takes determination to ascend to the top of this world, mortal. What do you want?",
+        "choices": [
+          {
+            "text": "I want to challenge you!",
+            "next": "challenge"
+          },
+          {
+            "text": "I came here to demand a favour.",
+            "next": "bargain"
+          }
+        ],
+        "illustrations": ["discussion"]
+      },
+      "end": {
+        "text": "",
+        "choices": [],
+        "type": "end_dialogue"
+      },
+      "challenge": {
+        "text": "No.",
+        "choices": [
+          {
+            "text": "I have money.",
+            "next": "end",
+            "only_if": {
+              "predicate": "sharpneld:holding_emerald",
+              "when_unavailable": {
+                "display": "hidden"
+              }
+            }
+          },
+          {
+            "text": "Ok, I don't have money.",
+            "next": "end"
+          }
+        ],
+        "illustrations": ["discussion"]
+      },
+      "bargain": {
+        "text": "Tell me.",
+        "choices": [
+          {
+            "text": "I want life.",
+            "next": "end",
+            "only_if": {
+              "predicate": "sharpneld:full_health",
+              "when_unavailable": {
+                "display": "grayed_out",
+                "message": "You need all 10 hearts to pick this option."
+              }
+            }
+          },
+          {
+            "text": "I want wealth.",
+            "next": "end",
+            "only_if": {
+              "predicate": "sharpneld:holding_emerald",
+              "when_unavailable": {
+                "display": "hidden"
+              }
+            }
+          },
+          {
+            "text": "I want a friend.",
+            "next": "friendship"
+          }
+        ],
+        "illustrations": ["discussion"]
+      },
+      "friendship": {
+        "text": [
+          {"text":"I am "},
+          {"selector":"@interlocutor"},
+          {"text":". Pleased to make your acquaintance..."}
+        ],
+        "choices": [
+          {
+            "text": [{"text":"My name is "},{"selector":"@s"}],
+            "next": "end"
+          }
+        ],
+        "illustrations": ["discussion"]
+      }
+    },
+    "illustrations": {
+      "discussion": [
+        {
+          "type": "blabber:entity",
+          "entity": "@interlocutor",
+          "x1": 0,
+          "y1": 80,
+          "x2": 100,
+          "y2": 180,
+          "size": 100,
+          "y_offset": 0.5,
+          "stare_at_x": 50,
+          "stare_at_y": 0
+        },
+        {
+          "type": "blabber:entity",
+          "entity": "@s",
+          "x1": 100,
+          "y1": 80,
+          "x2": 200,
+          "y2": 180,
+          "size": 100,
+          "y_offset": 0.5,
+          "stare_at_x": -50,
+          "stare_at_y": 0
+        }
+      ]
+    },
+    "start_at": "start"
+  }
+  

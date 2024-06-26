@@ -1,0 +1,13 @@
+name = "Dimension Viewer"
+filename = "dimensionviewer-1.20-1.4.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ad69ac50b0d808f530e55b688a07136fc5381ab5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4632484
+project-id = 857799

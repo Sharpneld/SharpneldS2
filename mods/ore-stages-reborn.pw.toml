@@ -1,0 +1,13 @@
+name = "Ore Stages Reborn"
+filename = "orestages-1.20.1-V0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf811d4912f1715c288a4e7bd08d8c42e24af1d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5076392
+project-id = 901507

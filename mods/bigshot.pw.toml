@@ -1,0 +1,17 @@
+name = "BigShot"
+filename = "BigShot-forge-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8ad747e7b84ff5ade3f692e010f9a907ad917bfd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4937599
+project-id = 947331
+
+[option]
+optional = true
+default = false

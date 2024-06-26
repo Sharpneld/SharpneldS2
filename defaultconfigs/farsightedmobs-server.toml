@@ -1,0 +1,59 @@
+
+#Server configuration settings
+[server]
+#The minimum follow range for hostile mobs
+#Only overridden if the original mob's follow range was lower
+#Default value: 32. Vanilla behaviour: 16
+#Range: 0.0 ~ 2048.0
+minHostileFollowRange = 32.0
+#A list of follow range overrides. Entry format: "mod:entity_id,range"
+#Example: ["minecraft:creeper,32","minecraft:zombie,16"]
+#Default value: []
+mobFollowRangeOverrides = [
+	"deeperdarker:stalker,64",
+	"bosses_of_mass_destruction:void_blossom,64",
+	"bosses_of_mass_destruction:lich,64",
+	"bosses_of_mass_destruction:gauntlet,64",
+	"bosses_of_mass_destruction:obsidilith,64",
+	"minecells:conjunctivius,64",
+	"cataclysm:amethyst_crab,64",
+	"cataclysm:ancient_remnant,64",
+	"cataclysm:ender_golem,64",
+	"cataclysm:ender_guardian,64",
+	"cataclysm:ignis,64",
+	"cataclysm:netherite_monstrosity,64",
+	"cataclysm:the_harbinger,64",
+	"cataclysm:the_leviathan,64",
+	"cataclysm:coralssus,64",
+	"born_in_chaos_v1:barrel_zombie,64",
+	"born_in_chaos_v1:phantom_creeper,64",
+	"born_in_chaos_v1:door_knight,64",
+	"born_in_chaos_v1:skeleton_thrasher,64",
+	"born_in_chaos_v1:skeleton_thrasher_not_despawn,64",
+	"born_in_chaos_v1:pumpkin_spirit,64",
+	"born_in_chaos_v1:seared_spirit,64",
+	"born_in_chaos_v1:supreme_bonescaller,64",
+	"born_in_chaos_v1:supreme_bonescaller_not_despawn,64",
+	"born_in_chaos_v1:dire_hound_leader,64",
+	"born_in_chaos_v1:fallen_chaos_knight,64",
+	"born_in_chaos_v1:zombie_clown,64",
+	"born_in_chaos_v1:swarmer,64",
+	"born_in_chaos_v1:zombie_bruiser,64",
+	"born_in_chaos_v1:glutton_fish,64",
+	"born_in_chaos_v1:missioner,64",
+	"born_in_chaos_v1:sir_pumpkinhead,64",
+	"born_in_chaos_v1:lord_pumpkinhead,64",
+	"soulsweapons:day_stalker,64",
+	"soulsweapons:night_prowler,64",
+	"soulsweapons:withered_demon,64",
+	"soulsweapons:accursed_lord_boss,64",
+	"soulsweapons:draugr_boss,64",
+	"soulsweapons:night_shade,64",
+	"soulsweapons:returning_knight,64",
+	"soulsweapons:rime_spectre,64",
+	"soulsweapons:evil_forlorn,64",
+	"soulsweapons:soulmass,64",
+	"soulsweapons:chaos_monarch,64",
+	"soulsweapons:frost_giant,64",
+	"soulsweapons:moonknight,64",
+]

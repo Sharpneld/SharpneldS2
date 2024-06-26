@@ -1,0 +1,13 @@
+name = "Nether Ores Plus+"
+filename = "Nether Ores Plus+ 1.0.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "039137100d991695e2a030ab009e20db12819769"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5025344
+project-id = 307598

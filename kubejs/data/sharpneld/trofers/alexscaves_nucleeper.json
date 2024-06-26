@@ -1,0 +1,28 @@
+{
+    "colors": {
+        "accent": "#85435E",
+        "base": "#606060"
+    },
+    "display": {
+        "offset": {
+            "y": 0.5
+        },
+        "scale": 0.16
+    },
+    "effects": {
+        "sound": {
+            "soundEvent": "alexscaves:nuclear_siren"
+        }
+    },
+    "entity": {
+      "type": "alexscaves:nucleeper"
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+    },
+    "name": {
+        "color": "#db1f3b",
+        "text": "Triunfo sobre la Toxicidad"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "accent": "#bdc000",
+    "base": "#606060"
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.18
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexscaves:tremorzilla_roar"
+    }
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "entity": {
+    "type": "alexscaves:tremorzilla"
+  },
+  "name": {
+    "color": "#db1f3b",
+    "text": "Tremorzilla"
+  }
+}

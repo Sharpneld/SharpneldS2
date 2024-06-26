@@ -1,0 +1,13 @@
+name = "Mermod [FORGE]"
+filename = "mermod-forge-1.20.1-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc8bee3c74f049f3b910dcce163f5c9693fbfa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5436218
+project-id = 709092

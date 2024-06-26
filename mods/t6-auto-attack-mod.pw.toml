@@ -1,0 +1,18 @@
+name = "T6's Auto Attack Mod"
+filename = "T6-AutoAttack-v2_Fabric-1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "943feae8025b4fdf9945d4d52ecb7a32f0597ce5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4883117
+project-id = 778615
+
+[option]
+optional = true
+default = false
+description = "Mecanica de ataque automatico utilizada por BetterCombat pero de forma opcional."

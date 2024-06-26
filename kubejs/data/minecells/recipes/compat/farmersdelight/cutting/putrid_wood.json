@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "minecells:putrid_wood"
+        }
+    ],
+    "sound": "minecraft:item.axe.strip",
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    },
+    "result": [
+        {
+            "item": "minecells:stripped_putrid_wood"
+        },
+        {
+            "item": "farmersdelight:tree_bark"
+        }
+    ]
+}

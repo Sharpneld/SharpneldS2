@@ -1,0 +1,7 @@
+name = "resources"
+filename = "7.resources.zip"
+
+[download]
+url = "https://sharpneld.live/packfiles/7.resources.zip"
+hash-format = "sha256"
+hash = "c4ca228bcc417e5e36493261f4c7960953c655e43e3535a82128d5d4685632fc"

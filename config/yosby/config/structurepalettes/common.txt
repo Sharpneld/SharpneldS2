@@ -1,0 +1,35 @@
+// Common transformations and palettes
+
+90% default: village_plains_oak => minecraft:village_plains (minecraft:plains)
+90% default: village_plains_oak => minecraft:village_plains (minecraft:meadow)
+90% default: village_taiga_spruce => minecraft:village_taiga (minecraft:taiga)
+90% default: village_taiga_spruce => minecraft:village_taiga (minecraft:old_growth_spruce_taiga)
+90% default: village_taiga_spruce => minecraft:village_taiga (minecraft:old_growth_pine_taiga)
+
+village_plains_birch:
+minecraft:stripped_oak_log -> minecraft:bone_block
+
+village_plains_birch:
+minecraft:oak_log (!feature) -> minecraft:stripped_birch_log
+minecraft:oak_log (feature) -> minecraft:birch_log
+minecraft:oak_leaves -> minecraft:birch_leaves
+minecraft:stripped_oak_wood -> minecraft:stripped_birch_wood
+minecraft:oak_stairs -> minecraft:birch_stairs
+minecraft:oak_slab -> minecraft:birch_slab
+minecraft:oak_planks -> minecraft:birch_planks
+minecraft:oak_door -> minecraft:birch_door
+minecraft:oak_pressure_plate -> minecraft:birch_pressure_plate
+minecraft:oak_trapdoor -> minecraft:birch_trapdoor
+minecraft:oak_fence -> minecraft:birch_fence
+minecraft:oak_fence_gate -> minecraft:birch_fence_gate
+
+village_plains_dark_oak:
+minecraft:stripped_oak_log -> minecraft:dark_oak_log
+minecraft:oak_log (feature) -> minecraft:dark_oak_log
+minecraft:oak_log (!feature) -> minecraft:stripped_dark_oak_log
+minecraft:stripped_oak_wood -> minecraft:stripped_dark_oak_wood
+minecraft:oak_door -> minecraft:dark_oak_door
+minecraft:oak_trapdoor -> minecraft:dark_oak_trapdoor
+minecraft:oak_fence -> minecraft:dark_oak_fence
+minecraft:oak_fence_gate -> minecraft:dark_oak_fence_gate
+minecraft:oak_pressure_plate -> minecraft:dark_oak_pressure_plate

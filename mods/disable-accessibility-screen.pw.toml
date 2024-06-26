@@ -1,0 +1,13 @@
+name = "Disable Accessibility Screen"
+filename = "disableaccessibilityscreen-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2003c08feddc8f7cb4afb91a157d1ecbb4485724"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582602
+project-id = 813133

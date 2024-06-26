@@ -1,0 +1,206 @@
+
+#These settings define which perks are used and the settings which govern them.
+[Perks]
+
+	[Perks.For_Event]
+
+		[[Perks.For_Event.BREAK_SPEED]]
+			perk = "pmmo:break_speed"
+			skill = "gathering"
+			pickaxe_dig = 0.075
+
+		[[Perks.For_Event.BREAK_SPEED]]
+			perk = "pmmo:break_speed"
+			skill = "gathering"
+			shovel_dig = 0.075
+
+		[[Perks.For_Event.BREAK_SPEED]]
+			perk = "pmmo:break_speed"
+			skill = "gathering"
+			axe_dig = 0.075
+
+		[[Perks.For_Event.BREAK_SPEED]]
+			perk = "pmmo:break_speed"
+			skill = "gathering"
+			sword_dig = 0.075
+			hoe_dig = 0.075
+			shears_dig = 0.075
+
+		[[Perks.For_Event.ENTITY]]
+			perk = "pmmo:villager_boost"
+			skill = "charisma"
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "building"
+			attribute = "forge:reach_distance"
+			per_level = 0.025
+			max_boost = 1000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "agility"
+			attribute = "minecraft:generic.movement_speed"
+			per_level = 0.00125
+			max_boost = 10.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "agility"
+			attribute = "epicfight:staminar"
+			per_level = 1.5
+			max_boost = 100000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "vitality"
+            attribute = "minecraft:generic.max_health"
+            per_level = 1
+            multiplicative = false
+            min_level = 0
+            max_level = 50
+            max_boost = 10000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "vitality"
+            attribute = "minecraft:generic.max_health"
+            base = 50
+            per_level = 3
+            multiplicative = false
+            min_level = 51
+            max_level = 100
+            max_boost = 10000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:damage_reduce"
+			skill = "endurance"
+			per_level = 0.0085
+			max_boost = 1.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "endurance"
+			attribute = "epicfight:staminar"
+			per_level = 1.75
+			max_boost = 100000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "endurance"
+			attribute = "minecraft:generic.armor"
+			per_level = 0.1
+			max_boost = 1000.0
+
+			[[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "strength"
+            attribute = "minecraft:generic.attack_damage"
+            per_level = 0.05
+            multiplicative = false
+            min_level = 0
+            max_level = 50
+            max_boost = 10000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "strength"
+            attribute = "minecraft:generic.attack_damage"
+            base = 2.5
+            per_level = 0.075
+            multiplicative = false
+            min_level = 51
+            max_level = 100
+            max_boost = 10000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "strength"
+            attribute = "minecraft:generic.attack_damage"
+            per_level = 0.01
+            multiplicative = true
+            min_level = 0
+            max_level = 50
+            max_boost = 10000.0
+
+			[[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "dexterity"
+            attribute = "minecraft:generic.attack_damage"
+            per_level = 0.025
+            multiplicative = false
+            min_level = 0
+            max_level = 50
+            max_boost = 10000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "dexterity"
+            attribute = "minecraft:generic.attack_damage"
+            base = 0.125
+            per_level = 0.0075
+            multiplicative = false
+            min_level = 51
+            max_level = 100
+            max_boost = 10000.0
+
+        [[Perks.For_Event.SKILL_UP]]
+            perk = "pmmo:attribute"
+            skill = "dexterity"
+            attribute = "minecraft:generic.attack_damage"
+            per_level = 0.0025
+            multiplicative = true
+            min_level = 0
+            max_level = 50
+            max_boost = 10000.0            
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "dexterity"
+			attribute = "minecraft:generic.attack_speed"
+			per_level = 0.002
+			max_boost = 10000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "dexterity"
+			attribute = "epicfight:offhand_attack_speed"
+			per_level = 0.002
+			max_boost = 10000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "strength"
+			attribute = "minecraft:generic.attack_speed"
+			per_level = 0.001
+			max_boost = 10000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:attribute"
+			skill = "strength"
+			attribute = "epicfight:offhand_attack_speed"
+			per_level = 0.001
+			max_boost = 10000.0
+
+		[[Perks.For_Event.SKILL_UP]]
+			perk = "pmmo:damage_boost"
+			skill = "perception"
+			applies_to = ["minecraft:bow", "minecraft:crossbow", "wom:ender_blaster", "pa:flintlock", "pa:zamanium_javelin_throwable", "crossbowverhaul:netherite_crossbow"]
+			per_level = 0.0125
+			max_boost = 10000.0
+
+		[[Perks.For_Event.SPRINT_JUMP]]
+			perk = "pmmo:jump_boost"
+			skill = "agility"
+			per_level = 0.01
+
+		[[Perks.For_Event.JUMP]]
+			perk = "pmmo:jump_boost"
+			skill = "agility"
+			per_level = 0.012
+
+		[[Perks.For_Event.CROUCH_JUMP]]
+			perk = "pmmo:jump_boost"
+			skill = "agility"
+			per_level = 0.015
+

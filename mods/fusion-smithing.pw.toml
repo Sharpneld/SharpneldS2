@@ -1,0 +1,7 @@
+name = "fusion-smithing"
+filename = "fusion-smithing-1.0.1.jar"
+
+[download]
+url = "https://sharpneld.live/packfiles/fusion-smithing-1.0.1.jar"
+hash-format = "sha256"
+hash = "82f0a33849f01f70f364aee526ef5cf5d11b226e2d298475c1b9e1a45bb0842e"

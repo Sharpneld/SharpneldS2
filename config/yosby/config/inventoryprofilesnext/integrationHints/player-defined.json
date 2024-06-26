@@ -1,0 +1,78 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 302,
+                "top": 103
+            },
+            "SETTINGS": {
+                "horizontalOffset": 302,
+                "top": 104
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 48,
+                "bottom": 1
+            },
+            "SORT": {
+                "horizontalOffset": 38,
+                "bottom": 13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 50,
+                "bottom": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 48,
+                "bottom": 1
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.TravelersBackpackScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "dev.xkmc.l2tabs.compat.CuriosListScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "blusunrize.immersiveengineering.client.gui.CokeOvenScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "blusunrize.immersiveengineering.client.gui.ArcFurnaceScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.me.patternaccess.PatternAccessTermScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "dev.shadowsoffire.hostilenetworks.gui.SimChamberScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "dev.shadowsoffire.hostilenetworks.gui.LootFabScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.StorageBusScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "owmii.powah.client.screen.container.MagmatorScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "owmii.powah.client.screen.container.PlayerTransmitterScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.me.crafting.CraftAmountScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.CameraAttachmentsScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "minecraft:piglin",
+      "required": false
+    },
+    {
+      "id": "minecraft:piglin_brute",
+      "required": false
+    },
+    {
+      "id": "specialmobs:brutezombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:giantzombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:vampirezombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:knightzombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:plaguezombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:fishingzombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:zombifiedpiglin",
+      "required": false
+    },
+    {
+      "id": "specialmobs:hungryzombifiedpiglin",
+      "required": false
+    }
+  ]
+}

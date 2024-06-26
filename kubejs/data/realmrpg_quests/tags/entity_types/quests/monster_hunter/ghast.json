@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "minecraft:ghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:queenghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:unholyghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:corporealshiftghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:fighterghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:kingghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:babyghast",
+      "required": false
+    },
+    {
+      "id": "specialmobs:ghast",
+      "required": false
+    }
+  ]
+}

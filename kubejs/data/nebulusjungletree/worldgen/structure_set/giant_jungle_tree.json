@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "nebulusjungletree:giant_jungle_tree",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "integrated_api:advanced_random_spread",
+    "spacing": 60,
+    "separation": 30,
+    "salt": 654931306,
+    "super_exclusion_zone": {
+      "chunk_count": 4,
+      "other_set": "#sharpneld:general_avoid"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Structure Palettes"
+filename = "structurepalettes-1.20-1.0.2-forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "0ab9b152cc2008799742db80a89e0c7baebefcfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4976762
+project-id = 614366

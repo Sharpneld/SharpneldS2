@@ -1,0 +1,13 @@
+name = "Cubic Racers"
+filename = "cubicracers-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87929dd478afdbcbab53c524fe21d1ea269cbd16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5467775
+project-id = 1014428

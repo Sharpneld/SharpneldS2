@@ -1,0 +1,13 @@
+name = "Unnecessary Overhaul"
+filename = "Unnecessary_Overhual-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43ccb3cba9255456fa3cc4ed17ab6e904b8e7302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5406125
+project-id = 1032485

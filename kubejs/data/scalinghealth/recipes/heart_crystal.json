@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "scalinghealth",
+  "key": {
+    "x": {
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    "y": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "result": {
+    "item": "scalinghealth:heart_crystal"
+  },
+  "show_notification": false
+}

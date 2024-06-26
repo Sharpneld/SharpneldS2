@@ -1,0 +1,13 @@
+name = "Spoiled"
+filename = "Spoiled-forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "338d0ee2ec021211b5cbe2a83d99873a84b8542f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4803042
+project-id = 364918

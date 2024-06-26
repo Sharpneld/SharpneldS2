@@ -1,0 +1,13 @@
+name = "Celestisynth"
+filename = "celestisynth-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "506f17d30b5422d1f938b27cd35a9abfbd81499a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5116555
+project-id = 872712

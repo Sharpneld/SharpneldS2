@@ -1,0 +1,96 @@
+{
+  "values": [
+    {
+      "id": "minecraft:skeleton",
+      "required": false
+    },
+    {
+      "id": "minecraft:stray",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_skeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:skeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:bruteskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:fireskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:gatlingskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:giantskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:knightskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:ninjaskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:poisonskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:sniperskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:spitfireskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:strayskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:weatheredskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:witherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:brutewitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:gatlingwitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:giantwitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:knightwitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:ninjawitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:sniperwitherskeleton",
+      "required": false
+    },
+    {
+      "id": "specialmobs:spitfirewitherskeleton",
+      "required": false
+    }
+  ]
+}

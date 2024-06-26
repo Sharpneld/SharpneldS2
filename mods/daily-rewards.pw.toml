@@ -1,0 +1,13 @@
+name = "Daily Rewards"
+filename = "daily_rewards_1.20.1-5.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08657824ba1ce6c775040444bddc41e0d6fe6ba2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5149153
+project-id = 628798

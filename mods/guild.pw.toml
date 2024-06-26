@@ -1,0 +1,13 @@
+name = "The Guild"
+filename = "guild-fabric-0.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d91f1d56c16418daefced19a937e68d4edaf4939"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5224192
+project-id = 526011

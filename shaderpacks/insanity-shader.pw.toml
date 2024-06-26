@@ -1,0 +1,13 @@
+name = "Insanity Shader"
+filename = "Insanity-Shader-Universal-v1.650.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EQWX2WiO/versions/TK0ZSsk0/Insanity-Shader-Universal-v1.650.zip"
+hash-format = "sha1"
+hash = "10f06492bd7cdab8b71de10033e7f199c94e5717"
+
+[update]
+[update.modrinth]
+mod-id = "EQWX2WiO"
+version = "TK0ZSsk0"

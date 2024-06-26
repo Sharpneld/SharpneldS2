@@ -1,0 +1,13 @@
+name = "Nebulus' Jungle Tree"
+filename = "NebulusJungleTree+M.1.20.1+ForM.2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87ba0bbc986a70dc0d3caa9115b56953041329c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5438083
+project-id = 1035265

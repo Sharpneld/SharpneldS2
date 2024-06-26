@@ -1,0 +1,26 @@
+[
+    {
+        "mod": ["cataclysm"],
+        "result": "allow",
+        "when": "finalize",
+        "healthmultiply": 6
+    },
+    {
+        "mod": "born_in_chaos_v1",
+        "daycount": "lt(10)",
+        "result": "deny"
+    },
+    {
+        "mod": ["born_in_chaos_v1", "graveyard", "quark"],
+        "biome": ["alexscaves:abyssal_chasm","alexscaves:forlorn_hollows","alexscaves:magnetic_caves","alexscaves:primordial_caves","alexscaves:toxic_caves"],
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": ["dawnera:alligator_gar","dawnera:ceratosaurus","dawnera:coelacanth","dawnera:diabloceratops","dawnera:dimorphodon","dawnera:dunkleosteus","dawnera:mixosaurus","dawnera:pond_snail","dawnera:psittacosaurus","dawnera:sabertooth_salmon","dawnera:struthiomimus","dawnera:sturgeon","dawnera:triceratops","dawnera:tyrannosaurus","dawnera:worm"],
+        "when": "onjoin",
+        "mincount": 6,
+        "result": "deny"
+    }
+]

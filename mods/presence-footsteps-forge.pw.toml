@@ -1,0 +1,18 @@
+name = "[Visual] Presence Footsteps"
+filename = "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6ccb76043763f929a11f1857a57b41bb70ab7512"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5015286
+project-id = 433068
+
+[option]
+optional = true
+default = false
+description = "Agrega sonidos nuevos y mas dinamicos a cada bloque por el que camina el jugador.\n\nIMPORTANTE: Puede tener un impacto en los FPS en PCs poco potentes."

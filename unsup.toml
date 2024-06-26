@@ -1,0 +1,208 @@
+[flavor_groups.flavor]
+name = "Modpack"
+description = "Que versión de Sharpneld quieres jugar?"
+side = "client"
+[[flavor_groups.flavor.choices]]
+id = "lite"
+name = "Lite"
+description = "La cantidad minima de mods para unirse al servidor. Asignar por lo menos 3-4GB de RAM al mc. Siempre recomendado 4GB"
+[[flavor_groups.flavor.choices]]
+id = "normal"
+name = "Normal"
+description = "Version recomendada. Con shaders. Compatible con PCs con 8GB de RAM. Recomendado asignar 4GB de RAM o mas para obtener un mejor rendimiento. Incluye los mods de la version lite, ademas: <ul><li>Varios shaders preinstalados (activado por defecto)</li><li>Better advancements</li><li>Bobby</li><li>Client Tweaks</li><li>Fancy Menu</li><li>Loot Beams</li><li>Legendary Tooltips</li><li>Jade</li><li>Muchos otros</li></ul>"
+[[flavor_groups.flavor.choices]]
+id = "extreme"
+name = "Extreme"
+description = "Recomendado asignar 6GB de RAM al MC y tener una grafica dedicada. Incluye todos los mods de la version Normal, shaders y otros mods que mejoran la experiencia visual:\n<ul><li>Ambient Sounds</li><li>Dark mode</li><li>Dinamic Lights</li><li>Falling leaves</li><li>Better Foliage</li><li>Reblured</li><li>Fresh Animations</li><li>Dynamic Lights</li><li>Y muchos mas.</li></ul><i>Nota:</i> Esta version no ha sido testeada ampliamente y pueden presentarse algunos errores, especialmente con shaders y el mod Physics Pro."
+
+[flavor_groups.minimap]
+name = "Minimapa"
+description = "Que minimapa quieres usar? El modpack ya incluye un minimapa basico, pero puedes elegir otro si deseas. Tendrás que configurar la tecla que corresponda."
+side = "client"
+[[flavor_groups.minimap.choices]]
+id = "nominimap"
+name = "Defecto"
+description = "Utilizar el minimapa que ya viene incluido (FTB Chunks)."
+[[flavor_groups.minimap.choices]]
+id = "journeymap"
+name = "JourneyMap"
+description = "Minimapa utilizado en la temporada 1. Es un mod completo y conocido.\n\n<b>IMPORTANTE: Configurar los controles.</b>"
+[[flavor_groups.minimap.choices]]
+id = "xaeros"
+name = "Xaeros"
+description = "Incluye Xaeros Minimap y Xaeros WorldMap. Minimapa ligero, compatible con distintos mods.\n\n<b>IMPORTANTE: Configurar los controles.</b>"
+
+[flavor_groups.physics]
+name = "Fisicas"
+description = "Quieres usar un mod de fisicas semirealista? Tienes la opcion de elegir entre distintas opciones si deseas modificar el aspecto visual de minecraft."
+side = "client"
+[[flavor_groups.physics.choices]]
+id = "nophysics"
+name = "No"
+description = "Mantener la estetica de minecraft vanilla en lo posible."
+[[flavor_groups.physics.choices]]
+id = "physicslite"
+name = "ItemPhysics"
+description = "El mod ItemPhysics Lite agrega fisicas basicas a todos los items al caer.\n\n<b>IMPORTANTE: Puede tener un impacto en los FPS en PCs poco potentes.</b>"
+[[flavor_groups.physics.choices]]
+id = "pro"
+name = "Physics Pro"
+description = "Agrega una gran cantidad de fisicas a los items o bloques en el mundo que puedes ir configurando a tu gusto. La version PRO ademas agrega fisicas a los oceanos y la nieve entre otras modificaciones.\n\n<b>IMPORTANTE: Se recomienda tener una tarjeta grafica dedicada con las opciones por defecto.</b>"
+
+
+[metafile.modernfix-client]
+flavors = ["lite"]
+[metafile.jei-config]
+flavors = ["lite"]
+[metafile.options-lite]
+flavors = ["lite"]
+[metafile.options-normal]
+flavors = ["normal"]
+[metafile.options-extreme]
+flavors = ["extreme"]
+
+[metafile.ksyxis]
+flavors = ["lite", "normal"]
+[metafile.immediatelyfast]
+flavors = ["lite", "normal"]
+
+[metafile.oculus-default]
+flavors = ["normal"]
+[metafile.oculus-extreme]
+flavors = ["extreme"]
+[metafile.better-advancements]
+flavors = ["normal", "extreme"]
+[metafile.better-ping-display]
+flavors = ["normal", "extreme"]
+[metafile.bobby]
+flavors = ["normal", "extreme"]
+[metafile.client-tweaks]
+flavors = ["normal", "extreme"]
+[metafile.searchables]
+flavors = ["normal", "extreme"]
+[metafile.controlling]
+flavors = ["normal", "extreme"]
+[metafile.oculus]
+flavors = ["normal", "extreme"]
+[metafile.minemenu]
+flavors = ["normal", "extreme"]
+[metafile.mouse-tweaks]
+flavors = ["normal", "extreme"]
+
+[metafile.prism-lib]
+flavors = ["normal", "extreme"]
+[metafile.legendary-tooltips]
+flavors = ["normal", "extreme"]
+[metafile.libipn]
+flavors = ["normal", "extreme"]
+[metafile.inventory-profiles-next]
+flavors = ["normal", "extreme"]
+[metafile.just-zoom-forge]
+flavors = ["normal", "extreme"]
+[metafile.dynamic-fps]
+flavors = ["normal", "extreme"]
+[metafile.do-a-barrel-roll]
+flavors = ["normal", "extreme"]
+[metafile.konkrete]
+flavors = ["normal", "extreme"]
+[metafile.fancymenu]
+flavors = ["normal", "extreme"]
+[metafile.melody]
+flavors = ["normal", "extreme"]
+[metafile.craterlib]
+flavors = ["normal", "extreme"]
+[metafile.simple-discord-rpc]
+flavors = ["normal", "extreme"]
+[metafile.jade]
+flavors = ["normal", "extreme"]
+[metafile.loot-beams]
+flavors = ["normal", "extreme"]
+[metafile.clean-tooltips]
+flavors = ["normal", "extreme"]
+[metafile.overflowing-bars]
+flavors = ["normal", "extreme"]
+[metafile.forge-cit]
+flavors = ["normal", "extreme"]
+[metafile.extrasoundsforge]
+flavors = ["normal", "extreme"]
+[metafile.not-enough-animations]
+flavors = ["normal", "extreme"]
+[metafile.dynamic-surroundings-fabric-edition]
+flavors = ["normal", "extreme"]
+[metafile.sodium-shadowy-path-blocks]
+flavors = ["normal", "extreme"]
+
+[metafile.bigshot]
+flavors = ["extreme"]
+[metafile.ambient-environment]
+flavors = ["extreme"]
+[metafile.ambientsounds]
+flavors = ["extreme"]
+[metafile.modern-ui]
+flavors = ["extreme"]
+[metafile.entity-model-features]
+flavors = ["extreme"]
+[metafile.entity-texture-features-fabric]
+flavors = ["extreme"]
+[metafile.tips]
+flavors = ["extreme"]
+[metafile.extreme-sound-muffler]
+flavors = ["extreme"]
+[metafile.falling-leaves-forge]
+flavors = ["extreme"]
+[metafile.chat-heads]
+flavors = ["extreme"]
+[metafile.item-borders]
+flavors = ["extreme"]
+[metafile.item-highlighter]
+flavors = ["extreme"]
+[metafile.highlight]
+flavors = ["extreme"]
+[metafile.pick-up-notifier]
+flavors = ["extreme"]
+[metafile.ding]
+flavors = ["extreme"]
+[metafile.model-gap-fix]
+flavors = ["extreme"]
+[metafile.light-overlay]
+flavors = ["extreme"]
+[metafile.equipment-compare]
+flavors = ["extreme"]
+[metafile.dark-mode-everywhere]
+flavors = ["extreme"]
+[metafile.better-foliage-renewed]
+flavors = ["extreme"]
+[metafile.cat_jam]
+flavors = ["extreme"]
+[metafile.gml]
+flavors = ["extreme"]
+[metafile.eating-animation-forge]
+flavors = ["extreme"]
+[metafile.continuity]
+flavors = ["extreme"]
+[metafile.betterf3]
+flavors = ["extreme"]
+[metafile.dynamiclights-reforged]
+flavors = ["extreme"]
+[metafile.euphoria-patches]
+flavors = ["extreme"]
+[metafile.make-bubbles-pop]
+flavors = ["extreme"]
+[metafile.visuality-reforged]
+flavors = ["extreme"]
+
+[metafile.journeymap]
+flavors = ["journeymap"]
+[metafile.xaeros-minimap]
+flavors = ["xaeros"]
+[metafile.xaeros-world-map]
+flavors = ["xaeros"]
+
+[metafile.itemphysic-lite]
+flavors = ["physicslite"]
+
+[metafile.physics-pro]
+flavors = ["pro"]
+
+[metafile.mafglib]
+flavors = "forgematica_on"

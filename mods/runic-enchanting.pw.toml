@@ -1,0 +1,13 @@
+name = "Runic Enchanting"
+filename = "runic_enchanting-1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdb8eb0b1dd1249c086d0075647a55ef61b60702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4715520
+project-id = 838923

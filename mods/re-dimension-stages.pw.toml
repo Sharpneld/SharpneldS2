@@ -1,0 +1,13 @@
+name = "Re-Dimension Stages"
+filename = "redimstages-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ca306b124dbccd5e68bc81471ecc6da21c05124"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5091980
+project-id = 972469

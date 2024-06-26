@@ -1,0 +1,18 @@
+name = "[Visual] Mob Battle Music"
+filename = "mobbattlemusic-1.20.1-1.1.1.2-all.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "29e57913f65c56a4f7c056c15454ade1c8e384b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5240965
+project-id = 977024
+
+[option]
+optional = true
+default = false
+description = "Mob Battle Music agrega tres nuevas pistas musicales que se reproducen mientras te escabulles de los mobs, luchas contra ellos y luchas contra los jugadores. El volumen se controla en la opciona bloques musicales (tocadiscos)"

@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "minecraft:blaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:blaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:conflagrationblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:joltblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:infernoblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:cinderblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:hellfireblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:wildfireblaze",
+      "required": false
+    },
+    {
+      "id": "specialmobs:emberblaze",
+      "required": false
+    }
+  ]
+}

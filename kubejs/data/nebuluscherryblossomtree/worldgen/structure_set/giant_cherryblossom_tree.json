@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "nebuluscherryblossomtree:giant_cherryblossom_tree",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "integrated_api:advanced_random_spread",
+    "spacing": 13,
+    "separation": 7,
+    "salt": 1535571978,
+    "super_exclusion_zone": {
+      "chunk_count": 4,
+      "other_set": "#sharpneld:general_avoid"
+    }
+  }
+}

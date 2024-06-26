@@ -1,0 +1,124 @@
+{
+  "main": {
+    "0": {
+      "title": "Inventory HUD Settings",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:diamond_chestplate\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.inventoryhud.openconfig",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "Abrir Curios",
+      "icon": {
+        "stack": "{Count:1b,id:\"l2hostility:ring_of_healing\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.curios.open.desc",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Abrir Cosmeticos",
+      "icon": {
+        "stack": "{Count:1b,id:\"l2complements:sculkium_chestplate\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "keys.armourers_workshop.open-wardrobe",
+          "toggle": false
+        }
+      }
+    },
+    "3": {
+      "title": "Chat de Voz",
+      "icon": {
+        "stack": "{Count:1b,id:\"easy_npc:humanoid_slim_spawn_egg\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.voice_chat",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Monedero",
+      "icon": {
+        "stack": "{Count:1b,id:\"lightmanscurrency:wallet_copper\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wallet",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Historial de Muertes",
+      "icon": {
+        "stack": "{Count:1b,id:\"maidensmerrymaking:gravestone_plain\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.corpse.death_history",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Misiones",
+      "icon": {
+        "stack": "{Count:1b,id:\"ftbquests:book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbquests.quests",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "Crear Team",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:player_head\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbteams.open_gui",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "Jade Config",
+      "icon": {
+        "stack": "{Count:1b,id:\"silentgear:jeweler_tools\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.jade.config",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "Habilidades Epic Fight",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:written_book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.epicfight.skill_gui",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

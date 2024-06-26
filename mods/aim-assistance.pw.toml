@@ -1,0 +1,18 @@
+name = "Aim Assistance"
+filename = "motorassistance-2.1.0-MC1.20.1-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "18778a3dcb9a13b89cc0fea50d0e9754e1b16a6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4735712
+project-id = 399201
+
+[option]
+optional = true
+default = false
+description = "Facilita el uso de un controlador PS4 y al jugar en tercera persona. Util para jugadores nuevos o que no estan acostumbrados a jugar en PC."

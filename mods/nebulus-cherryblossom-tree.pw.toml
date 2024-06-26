@@ -1,0 +1,13 @@
+name = "Nebulus' Cherryblossom Tree"
+filename = "NebulusCherryblossomTree+M.1.20.1+ForM.2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53b39b5e892fcc65ef154b3799d3f7435e3ded9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5438147
+project-id = 988533

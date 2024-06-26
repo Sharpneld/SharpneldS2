@@ -1,0 +1,13 @@
+name = "Pastel Shaders"
+filename = "Pastel-Shaders-Universal-v1.200.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BkTdFBUU/versions/w3Pxx3b4/Pastel-Shaders-Universal-v1.200.zip"
+hash-format = "sha1"
+hash = "d9492996359ddaad54707f21671a6c47b7189f07"
+
+[update]
+[update.modrinth]
+mod-id = "BkTdFBUU"
+version = "w3Pxx3b4"

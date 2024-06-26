@@ -1,0 +1,13 @@
+name = "Look (Eye of Cthulhu)"
+filename = "look-1.0.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d736be3d2e57e4ff83e7f9b838d0a561165142b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5411378
+project-id = 997257

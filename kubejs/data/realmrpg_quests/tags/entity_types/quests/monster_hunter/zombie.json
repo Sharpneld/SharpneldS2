@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "minecraft:zombie",
+      "required": false
+    },
+    {
+      "id": "minecraft:husk",
+      "required": false
+    },
+    {
+      "id": "minecraft:drowned",
+      "required": false
+    },
+    {
+      "id": "specialmobs:plaguezombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:brutezombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:hungryzombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:giantzombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:zombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:fishingzombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:madscientistzombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:firezombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:huskzombie",
+      "required": false
+    },
+    {
+      "id": "specialmobs:frozenzombie",
+      "required": false
+    }
+  ]
+}

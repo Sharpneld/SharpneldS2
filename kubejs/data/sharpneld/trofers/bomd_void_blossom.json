@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "accent": "#F0F0F0",
+    "base": "#606060"
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.18
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "bosses_of_mass_destruction:void_blossom_hurt"
+    }
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "entity": {
+    "type": "bosses_of_mass_destruction:void_blossom"
+  },
+  "name": {
+    "color": "#db1f3b",
+    "text": "Void Blossom Trophy"
+  }
+}

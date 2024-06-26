@@ -1,0 +1,17 @@
+name = "cat_jam"
+filename = "cat_jam-forge-mc1.20-1.2.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a86876a2ef16d71f0c93c836eb5c4cafbb265ec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5337705
+project-id = 859716
+
+[option]
+optional = true
+default = false

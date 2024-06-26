@@ -1,0 +1,13 @@
+name = "alex cave addon"
+filename = "alex_cave_addon-3.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6b070954d92ee026dd323fb1209febb0e2d6134"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5298628
+project-id = 939005

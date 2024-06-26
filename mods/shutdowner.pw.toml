@@ -1,0 +1,13 @@
+name = "Shutdowner"
+filename = "shutdowner-1.20.1-2.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "b47ea1c98c05caaabbed0dba665320f93aa6ac6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5450708
+project-id = 366565

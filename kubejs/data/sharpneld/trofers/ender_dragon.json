@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "accent": "#AF6ED3",
+    "base": "#606060"
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.05
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.parrot.imitate.ender_dragon"
+    }
+  },
+  "entity": {
+    "type": "minecraft:ender_dragon"
+  },
+  "animation": {
+      "type": "spinning",
+      "speed": 0.20
+    },
+  "name": {
+    "color": "#AF6ED3",
+    "text": "Ender Dragon Trophy"
+  }
+}

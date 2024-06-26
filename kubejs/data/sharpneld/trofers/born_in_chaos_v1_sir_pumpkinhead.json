@@ -1,0 +1,28 @@
+{
+    "colors": {
+        "accent": "#85435E",
+        "base": "#606060"
+    },
+    "display": {
+        "offset": {
+            "y": 0.5
+        },
+        "scale": 0.16
+    },
+    "effects": {
+        "sound": {
+            "soundEvent": "born_in_chaos_v1:hah"
+        }
+    },
+    "entity": {
+      "type": "born_in_chaos_v1:sir_pumpkinhead"
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+    },
+    "name": {
+        "color": "#db1f3b",
+        "text": "Festín de la Calabaza"
+    }
+}

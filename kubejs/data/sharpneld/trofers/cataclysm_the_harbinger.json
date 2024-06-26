@@ -1,0 +1,34 @@
+{
+  "colors": {
+    "accent": "#bdc000",
+    "base": "#606060"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ],
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.18
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "cataclysm:harbinger_prepare"
+    }
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "entity": {
+    "type": "cataclysm:the_harbinger"
+  },
+  "name": {
+    "color": "#db1f3b",
+    "text": "Crepúsculo del Heraldo"
+  }
+}

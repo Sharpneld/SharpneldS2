@@ -1,0 +1,13 @@
+name = "Call of Yucatán"
+filename = "call_of_yucutan-1.0.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b289d821b6b36f3397e35e224a40c9263e3284e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5463066
+project-id = 1023668

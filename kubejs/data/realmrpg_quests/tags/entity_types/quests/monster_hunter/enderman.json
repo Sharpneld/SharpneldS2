@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "minecraft:enderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:runicenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:lightningenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:minienderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:thiefenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:icyenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:mirageenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:flameenderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:enderman",
+      "required": false
+    },
+    {
+      "id": "specialmobs:blindingenderman",
+      "required": false
+    }
+  ]
+}

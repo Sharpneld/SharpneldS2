@@ -1,0 +1,35 @@
+{
+  "type": "ars_nouveau:book_upgrade",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:apprentice_spell_book"
+    },
+    {
+      "item": "forbidden_arcanus:dark_nether_star"
+    },
+    {
+      "item": "ars_nouveau:wilden_tribute"
+    },
+    {
+      "item": "spectrum:bedrock_storage_block"
+    },
+    {
+      "item": "mythicmetals:celestium_ingot"
+    },
+    {
+      "item": "fwaystones:abyss_watcher"
+    },
+    {
+      "item": "fwaystones:abyss_watcher"
+    },
+    {
+      "item": "fwaystones:abyss_watcher"
+    },
+    {
+      "item": "born_in_chaos_v1:death_totem"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:archmage_spell_book"
+  }
+}

@@ -1,0 +1,13 @@
+name = "Remastered Structure"
+filename = "Remastered Structure 1.20.1-0.4 forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "f1f35db7f38ec176704fd2c2e3a4ef82fee65e07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5374974
+project-id = 972044

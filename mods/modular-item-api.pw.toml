@@ -1,0 +1,13 @@
+name = "Truly Modular - Modular Item API"
+filename = "Truly-Modular-miapi-forge-1.1.23-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8213ac98238293555b4bd511d514af3b718e6ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5395775
+project-id = 904056

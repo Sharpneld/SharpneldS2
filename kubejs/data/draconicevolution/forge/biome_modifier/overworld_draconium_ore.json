@@ -1,0 +1,6 @@
+{
+  "type" : "forge:add_features",
+  "features": "draconicevolution:overworld_draconium_ore",
+  "biomes": "minecraft:mushroom_fields",
+  "step": "underground_ores"
+}

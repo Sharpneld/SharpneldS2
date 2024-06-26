@@ -1,0 +1,17 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.10.0-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "54d5dc989e1d4fe682ca072c3ae02a244631e139"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5458344
+project-id = 32274
+
+[option]
+optional = true
+description = "Minimapa usado en la temporada 1 o en el servidor lite. Opcional debido a que se incluye el minimapa del mod FTB Chunks"

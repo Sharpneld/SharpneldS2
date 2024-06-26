@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "hopo:portal_dripstone",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 45,
+    "separation": 38,
+    "salt": 1646207470
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "music.pipi": {
+        "sounds": [
+            {
+                "name": "sharpneld:pipi",
+                "stream": true
+            }
+        ]
+    }
+}

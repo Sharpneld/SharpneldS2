@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "accent": "#85435E",
+        "base": "#606060"
+    },
+    "display": {
+        "offset": {
+            "y": 0.5
+        },
+        "scale": 1.0
+    },
+    "effects": {
+        "sound": {
+            "soundEvent": "alexscaves:spelunkery_table_success_complete"
+        }
+    },
+    "item": {
+        "item": "alexscaves:spelunkery_table",
+        "count": 1
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+    },
+    "name": {
+        "color": "#db1f3b",
+        "text": "Alex's Caves Trophy"
+    }
+}

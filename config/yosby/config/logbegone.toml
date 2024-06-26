@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "OpenGL debug message: id=1282, source=API, type=ERROR"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "OpenGL debug message:"]
+

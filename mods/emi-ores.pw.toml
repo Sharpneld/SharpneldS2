@@ -1,0 +1,7 @@
+name = "emi-ores"
+filename = "emi_ores-0.4+1.20.1+forge.jar"
+
+[download]
+url = "https://sharpneld.live/packfiles/emi_ores-0.4+1.20.1+forge.jar"
+hash-format = "sha256"
+hash = "d644983055ccf36a6d0ffbded2c7c0a24a5349ea3a5a18974a5db9c5af7a54c8"

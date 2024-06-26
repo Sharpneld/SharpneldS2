@@ -1,0 +1,78 @@
+90% default: village_plains_walnut_1 => minecraft:village_plains (minecraft:plains)
+50% default: village_plains_walnut_2 => minecraft:village_plains (minecraft:plains)
+default: village_plains_coconut => minecraft:village_plains (minecraft:beach+)
+
+village_plains_walnut_1,village_plains_walnut_2:
+minecraft:stripped_oak_log -> ecologics:stripped_walnut_log
+minecraft:oak_log -> ecologics:walnut_log
+minecraft:stripped_oak_wood -> ecologics:stripped_walnut_wood
+minecraft:oak_door -> ecologics:walnut_door
+minecraft:oak_trapdoor -> ecologics:walnut_trapdoor
+minecraft:oak_fence -> ecologics:walnut_fence
+minecraft:oak_fence_gate -> ecologics:walnut_fence_gate
+minecraft:oak_pressure_plate -> ecologics:walnut_pressure_plate
+minecraft:oak_leaves -> ecologics:walnut_leaves
+minecraft:oak_stairs -> ecologics:walnut_stairs
+minecraft:oak_slab -> ecologics:walnut_slab
+minecraft:oak_planks -> ecologics:walnut_planks
+
+village_plains_walnut_1:
+minecraft:white_terracotta -> minecraft:bricks
+
+village_plains_walnut_2:
+minecraft:white_terracotta -> ?
+
+village_plains_walnut_2:
+minecraft:white_terracotta -> minecraft:light_gray_terracotta
+
+village_plains_walnut_2:
+minecraft:cobblestone -> minecraft:bricks
+minecraft:cobblestone_stairs -> minecraft:brick_stairs
+minecraft:cobblestone_wall -> minecraft:brick_wall
+minecraft:cobblestone_slab -> minecraft:brick_slab
+minecraft:mossy_cobblestone -> minecraft:bricks
+minecraft:mossy_cobblestone_stairs -> minecraft:brick_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:brick_wall
+minecraft:mossy_cobblestone_slab -> minecraft:brick_slab
+minecraft:smooth_stone_slab -> ?
+
+village_plains_coconut:
+minecraft:grass_block -> minecraft:sand
+minecraft:dirt_path -> minecraft:sandstone
+
+village_plains_coconut:
+minecraft:stripped_oak_log -> ecologics:stripped_coconut_log
+minecraft:oak_log -> ecologics:coconut_log
+minecraft:stripped_oak_wood -> ecologics:stripped_coconut_wood
+minecraft:oak_door -> ecologics:coconut_door
+minecraft:oak_trapdoor -> ecologics:coconut_trapdoor
+minecraft:oak_fence -> ecologics:coconut_fence
+minecraft:oak_fence_gate -> ecologics:coconut_fence_gate
+minecraft:oak_pressure_plate -> ecologics:coconut_pressure_plate
+minecraft:oak_leaves -> ecologics:coconut_leaves
+minecraft:oak_stairs -> ecologics:coconut_stairs
+minecraft:oak_slab -> ecologics:coconut_slab
+minecraft:oak_planks -> ecologics:coconut_planks
+
+village_plains_coconut:
+minecraft:hay_block -> ecologics:coconut_leaves
+
+village_plains_coconut:
+minecraft:white_terracotta -> minecraft:smooth_sandstone
+
+village_plains_coconut:
+minecraft:cobblestone -> 80 ecologics:seashell_tiles, 20 ecologics:seashell_block
+minecraft:cobblestone_stairs -> ecologics:seashell_tile_stairs
+minecraft:cobblestone_wall -> ecologics:seashell_tile_wall
+minecraft:cobblestone_slab -> ecologics:seashell_tile_slab
+minecraft:mossy_cobblestone -> ecologics:seashell_tiles
+minecraft:mossy_cobblestone_stairs -> 80 ecologics:seashell_tile_stairs, 20 ecologics:seashell_block
+minecraft:mossy_cobblestone_wall -> ecologics:seashell_tile_wall
+minecraft:mossy_cobblestone_slab -> ecologics:seashell_tile_slab
+minecraft:smooth_stone_slab -> ecologics:seashell_tile_slab
+
+village_taiga_fir,village_snowy_spruce:
+minecraft:snow_block -> ecologics:snow_bricks
+
+village_taiga_fir,village_snowy_spruce:
+minecraft:packed_ice -> ecologics:ice_bricks

@@ -1,0 +1,13 @@
+name = "Stuff Ain't Cheap"
+filename = "stuffaintcheap-1.20.1-1.1.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ea049a624c4d6e4e6f76d78de5484e21292ddea6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5200653
+project-id = 900910

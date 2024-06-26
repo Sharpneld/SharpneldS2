@@ -1,0 +1,13 @@
+name = "Alex's Caves:Entropy"
+filename = "entropy-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b044ac58ee9965b9f861fe38eccd85c59770ae24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5440267
+project-id = 1021117

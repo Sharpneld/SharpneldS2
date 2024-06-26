@@ -1,0 +1,13 @@
+name = "Ticket of eternal keep"
+filename = "ticket-of-eternal-keep-1.2.1-1.20.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "cd1cde3a367672448ac0cff9b310c787cb329cd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5050520
+project-id = 956505

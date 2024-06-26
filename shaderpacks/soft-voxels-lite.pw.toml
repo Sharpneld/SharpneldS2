@@ -1,0 +1,13 @@
+name = "Soft Voxels Lite"
+filename = "SoftVoxelsLite_v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xl42lc6c/versions/IxJIqh4s/SoftVoxelsLite_v2.0.zip"
+hash-format = "sha1"
+hash = "6dd428dc08a23b8f61810357fded9fec5d309a8e"
+
+[update]
+[update.modrinth]
+mod-id = "Xl42lc6c"
+version = "IxJIqh4s"

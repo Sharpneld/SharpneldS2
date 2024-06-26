@@ -1,0 +1,47 @@
+{
+  "type": "ars_nouveau:book_upgrade",
+  "pattern":
+  [
+    "   ",
+    " y ",
+    "   "
+  ],
+  "key": {
+    "y": {
+      "item": "ars_nouveau:spell_book"
+    }
+  },
+  "ingredients": [
+    {
+      "item": "ars_nouveau:novice_spell_book"
+    },
+    {
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "item": "soulsweapons:demon_heart"
+    },
+    {
+      "item": "gobber2:gobber2_ingot_nether"
+    },
+    {
+      "item": "gobber2:gobber2_ingot_nether"
+    },
+    {
+      "item": "forbidden_arcanus:smelter_prism"
+    },
+    {
+      "item": "forbidden_arcanus:sea_prism"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result":
+  {
+    "item": "ars_nouveau:apprentice_spell_book"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "accent": "#bdc000",
+    "base": "#606060"
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 0.18
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "minecraft:entity.wither.shoot"
+    }
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "entity": {
+    "type": "minecraft:wither"
+  },
+  "name": {
+    "color": "#db1f3b",
+    "text": "Wither"
+  }
+}

@@ -1,0 +1,24 @@
+
+
+
+
+profile Saved activate HOT4
+	HOT1
+		"l2hostility:imagine_breaker"
+	HOT2
+		"l2complements:sculkium_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:mending",lvl:1},{id:"wom:invigoration",lvl:9},{id:"l2complements:explosion_reject",lvl:1},{id:"minecraft:thorns",lvl:5},{id:"l2complements:durable_armor",lvl:3}]
+	HOT3
+		"l2hostility:platinum_star"
+	HOT4
+		"apotheosis:potion_charm"
+	HOT5
+		"minecraft:wither_skeleton_skull"
+	HOT6
+		"iceandfire:dragonbone_pickaxe" -> "Enchantments" : [{id:"minecraft:silk_touch",lvl:1},{id:"minecraft:efficiency",lvl:9},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:8}]
+	HOT7
+		"sophisticatedbackpacks:iron_backpack"
+	HOT8
+		"enigmaticlegacy:enigmatic_amulet"
+	HOT9
+		"enigmaticlegacy:cursed_ring"
+

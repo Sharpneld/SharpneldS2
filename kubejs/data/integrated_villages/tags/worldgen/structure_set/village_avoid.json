@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:villages",
+    "minecraft:pillager_outposts",
+    "hexerei:baba_yaga_hut",
+    "hexerei:dark_coven",
+    "hexerei:nature_coven",
+    "hexerei:witch_hut"
+  ]
+}

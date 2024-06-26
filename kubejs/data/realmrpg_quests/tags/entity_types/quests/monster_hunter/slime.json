@@ -1,0 +1,52 @@
+{
+  "values": [
+    {
+      "id": "minecraft:slime",
+      "required": false
+    },
+    {
+      "id": "minecraft:magma_cube",
+      "required": false
+    },
+    {
+      "id": "specialmobs:strawberryslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:watermelonslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:blueberryslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:blackberryslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:lemonslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:slime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:grapeslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:frozenslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:caramelslime",
+      "required": false
+    },
+    {
+      "id": "specialmobs:potionslime",
+      "required": false
+    }
+  ]
+}

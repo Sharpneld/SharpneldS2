@@ -1,0 +1,12 @@
+name = "physics-pro"
+filename = "physics-mod-pro-v169g-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://sharpneld.live/packfiles/physics-mod-pro-v169g-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "b73b6562f9615fac0c2564f0810bd0c71429c5bb12facc480386a4ef2c9da905"
+
+[option]
+optional = true
+default = false

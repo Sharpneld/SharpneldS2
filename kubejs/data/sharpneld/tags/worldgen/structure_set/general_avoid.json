@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+        "betterarcheology:fossil_sites",
+        "realmrpg_quests:anglers_with_all",
+        "realmrpg_quests:cooks_with_all",
+        "realmrpg_quests:headless_skeletons_with_all",
+        "realmrpg_quests:lumberjacks_with_all",
+        "realmrpg_quests:miners_with_all",
+        "realmrpg_quests:monster_hunters_with_all",
+        "realmrpg_quests:piglin_gamblers_with_all",
+        "formationsoverworld:rafts",
+        "formationsoverworld:rare",
+        "formationsoverworld:uncommon"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "colors": {
+      "accent": "#ac5636",
+      "base": "#606060"
+    },
+    "display": {
+      "offset": {
+        "y": 3.0
+      },
+      "scale": 0.8
+    },
+    "effects": {
+      "sound": {
+        "soundEvent": "minecraft:block.bell.use"
+      }
+    },
+    "item": {
+      "item": "sophisticatedbackpacks:netherite_backpack",
+      "count": 1
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+      },
+    "name": {
+      "color": "#ad62d9",
+      "text": "Sophisticated Backpack Trophy"
+    }
+  }

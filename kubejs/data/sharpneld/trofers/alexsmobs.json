@@ -1,0 +1,29 @@
+{
+  "colors": {
+    "accent": "#06030c",
+    "base": "#606060"
+  },
+  "display": {
+    "offset": {
+      "y": 0.5
+    },
+    "scale": 1.0
+  },
+  "effects": {
+    "sound": {
+      "soundEvent": "alexsmobs:void_portal_open"
+    }
+  },
+  "item": {
+    "item": "alexsmobs:transmutation_table",
+    "count": 1
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.20
+  },
+  "name": {
+    "color": "#db1f3b",
+    "text": "Alex's Mobs Trophy"
+  }
+}

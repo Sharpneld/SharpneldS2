@@ -1,0 +1,122 @@
+village_plains_jacaranda,village_taiga_aspen,village_taiga_witch_hazel:
+minecraft:cobblestone -> architects_palette:warpstone
+minecraft:cobblestone_stairs -> architects_palette:warpstone_stairs
+minecraft:cobblestone_wall -> architects_palette:warpstone_wall
+minecraft:cobblestone_slab -> architects_palette:warpstone_slab
+minecraft:mossy_cobblestone -> architects_palette:warpstone
+minecraft:mossy_cobblestone_stairs -> architects_palette:warpstone_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:warpstone_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:warpstone_slab
+minecraft:smooth_stone_slab -> architects_palette:dripstone_brick_slab
+
+village_plains_jacaranda:
+minecraft:white_terracotta -> architects_palette:calcite_bricks
+
+village_plains_dark_oak:
+minecraft:white_terracotta -> architects_palette:osseous_bricks
+
+village_plains_dark_oak:
+minecraft:oak_stairs -> architects_palette:flint_tile_stairs
+minecraft:oak_slab -> architects_palette:flint_tile_slab
+minecraft:oak_planks -> architects_palette:flint_tiles
+
+village_plains_dark_oak:
+minecraft:oak_stairs -> architects_palette:olivestone_brick_stairs
+minecraft:oak_slab -> architects_palette:olivestone_brick_slab
+minecraft:oak_planks -> architects_palette:olivestone_bricks
+
+village_plains_birch:
+minecraft:stripped_oak_log -> architects_palette:calcite_pillar
+
+village_plains_birch,village_plains_dark_oak,village_taiga_zelkova_2:
+minecraft:cobblestone -> 70 architects_palette:myonite_bricks, 30 architects_palette:myonite
+minecraft:cobblestone_stairs -> 70 architects_palette:myonite_brick_stairs, 30 architects_palette:myonite_stairs
+minecraft:cobblestone_wall -> 70 architects_palette:myonite_brick_wall, 30 architects_palette:myonite_wall
+minecraft:cobblestone_slab -> 70 architects_palette:myonite_brick_slab, 30 architects_palette:myonite_slab
+minecraft:mossy_cobblestone -> architects_palette:mushy_myonite_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:mushy_myonite_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:mushy_myonite_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:mushy_myonite_brick_slab
+minecraft:smooth_stone_slab -> architects_palette:myonite_brick_slab
+
+village_plains_oak,village_plains_walnut_2:
+minecraft:white_terracotta -> 70 architects_palette:myonite_bricks, 30 architects_palette:myonite
+
+village_plains_oak,village_taiga_maple,village_taiga_fir,village_taiga_spruce:
+minecraft:cobblestone -> architects_palette:tuff_bricks
+minecraft:cobblestone_stairs -> architects_palette:tuff_brick_stairs
+minecraft:cobblestone_wall -> architects_palette:tuff_brick_wall
+minecraft:cobblestone_slab -> architects_palette:tuff_brick_slab
+minecraft:mossy_cobblestone -> architects_palette:tuff_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:tuff_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:tuff_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:tuff_brick_slab
+minecraft:smooth_stone_slab -> architects_palette:tuff_brick_slab
+
+village_plains_walnut_1,village_taiga_aspen,village_taiga_fir,village_taiga_cika,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> architects_palette:dripstone_bricks
+minecraft:cobblestone_stairs -> architects_palette:dripstone_brick_stairs
+minecraft:cobblestone_wall -> architects_palette:dripstone_brick_wall
+minecraft:cobblestone_slab -> architects_palette:dripstone_brick_slab
+minecraft:mossy_cobblestone -> architects_palette:dripstone_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:dripstone_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:dripstone_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:dripstone_brick_slab
+minecraft:smooth_stone_slab -> architects_palette:dripstone_brick_slab
+
+village_plains_walnut_1,village_taiga_cika,village_taiga_holly,village_taiga_zelkova_1,village_taiga_spruce:
+minecraft:cobblestone -> architects_palette:calcite_bricks
+minecraft:cobblestone_stairs -> architects_palette:calcite_brick_stairs
+minecraft:cobblestone_wall -> architects_palette:calcite_brick_wall
+minecraft:cobblestone_slab -> architects_palette:calcite_brick_slab
+minecraft:mossy_cobblestone -> architects_palette:calcite_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:calcite_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:calcite_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:calcite_brick_slab
+minecraft:smooth_stone_slab -> architects_palette:calcite_brick_slab
+
+village_plains_coconut:
+minecraft:white_terracotta -> 70 architects_palette:algal_bricks, 30 architects_palette:overgrown_algal_bricks
+
+village_taiga_maple,village_taiga_spruce:
+minecraft:cobblestone -> 60 architects_palette:olivestone_bricks, 40 architects_palette:cracked_olivestone_bricks
+minecraft:cobblestone_stairs -> architects_palette:olivestone_brick_stairs
+minecraft:cobblestone_wall -> architects_palette:olivestone_brick_wall
+minecraft:cobblestone_slab -> architects_palette:olivestone_brick_slab
+minecraft:mossy_cobblestone -> architects_palette:cracked_olivestone_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:olivestone_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:olivestone_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:olivestone_brick_slab
+
+village_taiga_cika,village_taiga_holly,village_taiga_spruce:
+minecraft:cobblestone -> architects_palette:flint_tiles
+minecraft:cobblestone_stairs -> architects_palette:flint_tile_stairs
+minecraft:cobblestone_wall -> architects_palette:flint_tile_wall
+minecraft:cobblestone_slab -> architects_palette:flint_tile_slab
+minecraft:mossy_cobblestone -> architects_palette:flint_tiles
+minecraft:mossy_cobblestone_wall -> architects_palette:flint_tile_wall
+minecraft:mossy_cobblestone_stairs -> architects_palette:flint_tile_stairs
+minecraft:mossy_cobblestone_slab -> architects_palette:flint_tile_slab
+
+village_taiga_pine_1,village_taiga_pine_2:
+minecraft:cobblestone -> architects_palette:stripped_twisted_wood
+minecraft:cobblestone_stairs -> architects_palette:twisted_stairs
+minecraft:cobblestone_wall -> architects_palette:twisted_wall
+minecraft:cobblestone_slab -> architects_palette:twisted_slab
+minecraft:mossy_cobblestone -> architects_palette:stripped_twisted_wood
+minecraft:mossy_cobblestone_stairs -> architects_palette:twisted_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:twisted_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:twisted_slab
+
+village_taiga_witch_hazel:
+minecraft:cobblestone -> architects_palette:osseous_bricks
+minecraft:cobblestone_stairs -> architects_palette:osseous_brick_stairs
+minecraft:cobblestone_wall -> architects_palette:osseous_brick_wall
+minecraft:cobblestone_slab -> architects_palette:osseous_brick_slab
+minecraft:mossy_cobblestone -> architects_palette:osseous_bricks
+minecraft:mossy_cobblestone_stairs -> architects_palette:osseous_brick_stairs
+minecraft:mossy_cobblestone_wall -> architects_palette:osseous_brick_wall
+minecraft:mossy_cobblestone_slab -> architects_palette:osseous_brick_slab
+
+village_taiga_fir,village_snowy_spruce:
+minecraft:packed_ice -> architects_palette:polished_packed_ice

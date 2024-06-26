@@ -1,0 +1,13 @@
+name = "Cataclysmic Illagers"
+filename = "Cataclysmic Illagers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01caa3944fbaf60f052bcf00ad2795689e8ddc12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5417246
+project-id = 1015777

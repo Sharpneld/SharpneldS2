@@ -1,0 +1,5 @@
+{
+  "type": "gobber2:gobber2_codec",
+  "biomes": "#minecraft:is_nether",
+  "feature": "gobber2:gobber2_ore_nether_placed"
+}

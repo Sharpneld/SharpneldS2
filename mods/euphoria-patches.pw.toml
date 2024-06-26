@@ -1,0 +1,17 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-0.3.3-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1160ebb0d1c68bdfc1227c3aa158f4c13baca2d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5407439
+project-id = 915902
+
+[option]
+optional = true
+default = false

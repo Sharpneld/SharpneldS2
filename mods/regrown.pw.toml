@@ -1,0 +1,13 @@
+name = "Regrown"
+filename = "regrown-1.1.2-1.19.4-1.20.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "cdd64ad60b166747c6e46df04e1b9232e2669948"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4941035
+project-id = 947509

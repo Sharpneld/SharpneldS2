@@ -1,0 +1,13 @@
+name = "Cook your food"
+filename = "cookyourfood--mc1.20.1--1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52a21904e38374cd25ebcf0b27a5170e0c688712"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733659
+project-id = 657757

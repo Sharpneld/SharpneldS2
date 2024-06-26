@@ -1,0 +1,13 @@
+name = "OnlyLooking Updated"
+filename = "OnlyLooking-1.20.1-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae62756728a8c8709d40e1a1cc40a014d803b4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5456516
+project-id = 1043635

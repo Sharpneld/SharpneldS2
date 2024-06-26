@@ -1,0 +1,104 @@
+{
+  "values": [
+    {
+      "id": "minecraft:spider",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_spider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:motherspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:desertspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:witchspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:babyspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:webspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:firespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:cavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:palespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:watercavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:palecavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:flyingcavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:firecavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:poisonspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:babycavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:webcavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:hungryspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:desertcavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:mothercavespider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:giantspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:waterspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:flyingspider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:spider",
+      "required": false
+    },
+    {
+      "id": "specialmobs:witchcavespider",
+      "required": false
+    }
+  ]
+}

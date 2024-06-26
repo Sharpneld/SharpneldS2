@@ -1,0 +1,13 @@
+name = "Netherite Extras"
+filename = "netheriteextras-0.2.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WRs6iRSw/versions/wP5v5aNr/netheriteextras-0.2.2%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "6d70857fc278c8e7c0b5778f91b31d27f2708976"
+
+[update]
+[update.modrinth]
+mod-id = "WRs6iRSw"
+version = "wP5v5aNr"

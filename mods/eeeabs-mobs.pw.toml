@@ -1,0 +1,13 @@
+name = "EEEAB's Mobs"
+filename = "eeeabsmobs-1.20.1-0.92.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5002b74b35fd9a07741702de7b7f0ae163df1078"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5454293
+project-id = 921600
