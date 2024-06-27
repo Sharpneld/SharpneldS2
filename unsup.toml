@@ -131,6 +131,8 @@ flavors = ["normal", "extreme"]
 flavors = ["normal", "extreme"]
 [metafile.sodium-shadowy-path-blocks]
 flavors = ["normal", "extreme"]
+[metafile.catalogue]
+flavors = ["normal", "extreme"]
 
 [metafile.bigshot]
 flavors = ["extreme"]
