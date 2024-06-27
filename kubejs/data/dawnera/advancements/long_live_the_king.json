@@ -1,0 +1,43 @@
+{
+  "parent": "dawnera:the_dawn_era",
+  "criteria": {
+    "meet_trex": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "dawnera:tyrannosaurus"
+            }
+          }
+        ]
+      },
+      "trigger": "dawnera:meet_mob"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dawnera.long_live_the_king.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.long_live_the_king.title"
+    }
+  },
+  "requirements": [
+    [
+      "meet_trex"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  },
+  "sends_telemetry_event": true
+}

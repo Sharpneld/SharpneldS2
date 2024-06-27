@@ -1,0 +1,35 @@
+{
+  "parent": "dawnera:the_dawn_era",
+  "criteria": {
+    "craft_psittaco": {
+      "conditions": {
+        "recipe_id": "dawnera:psittaco"
+      },
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dawnera.psitaco_bell.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "dawnera:psittaco"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.psitaco_bell.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_psittaco"
+    ]
+  ],
+  "rewards": {
+    "experience": 30
+  },
+  "sends_telemetry_event": true
+}

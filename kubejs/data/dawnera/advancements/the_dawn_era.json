@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "join_game": {
+      "conditions": {},
+      "trigger": "dawnera:join_game"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "dawnera:textures/gui/advancements/backgrounds/mud_paw.png",
+    "description": {
+      "translate": "advancements.dawnera.the_dawn_era.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.the_dawn_era.title"
+    }
+  },
+  "requirements": [
+    [
+      "join_game"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "dawnera:the_dawn_era",
+  "criteria": {
+    "meet_living_fossil": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "#dawnera:living_fossil"
+            }
+          }
+        ]
+      },
+      "trigger": "dawnera:meet_mob"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dawnera.living_fossil.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.living_fossil.title"
+    }
+  },
+  "requirements": [
+    [
+      "meet_living_fossil"
+    ]
+  ],
+  "rewards": {
+    "experience": 20
+  },
+  "sends_telemetry_event": true
+}

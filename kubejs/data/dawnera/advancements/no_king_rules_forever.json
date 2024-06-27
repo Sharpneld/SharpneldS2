@@ -1,0 +1,43 @@
+{
+  "parent": "dawnera:long_live_the_king",
+  "criteria": {
+    "kill_trex": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "dawnera:tyrannosaurus"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dawnera.no_king_rules_forever.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.no_king_rules_forever.title"
+    }
+  },
+  "requirements": [
+    [
+      "kill_trex"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

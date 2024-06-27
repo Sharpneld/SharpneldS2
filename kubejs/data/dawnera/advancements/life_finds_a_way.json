@@ -1,0 +1,39 @@
+{
+  "parent": "dawnera:living_fossil",
+  "criteria": {
+    "get_a_dino_egg": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "dawnera:prehistoric_egg"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dawnera.life_finds_a_way.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "dawnera:triceratops_egg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.dawnera.life_finds_a_way.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_a_dino_egg"
+    ]
+  ],
+  "rewards": {
+    "experience": 20
+  },
+  "sends_telemetry_event": true
+}
