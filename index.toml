@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "18ccbbbb-DistantHorizons-forge-2.1.3-a-dev-1.20.1.jar"
+hash = "71dc49821a310edce441b2b4660a1dc8cfd5ce4eb4e0470ae4a1f6091e7e3387"
+
+[[files]]
 file = "config/apotheosis/adventure.cfg"
 hash = "47622e1fd895a3617a154b018a5f3a7c4d41ffac6d097377b261a844d093786b"
 
@@ -1538,10 +1542,6 @@ file = "kubejs/assets/sharpneld/textures/item/ultimate_ingot.png"
 hash = "641861095f0c6c10283bc6acda279639739510247dd94fcaba093c8240c290cf"
 
 [[files]]
-file = "kubejs/client_scripts/hide.js"
-hash = "b0693467abdb9d5f94722a9819557783743a22d70f8ff6baae50675ba1551669"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "31df53bce91343acd8f6cfccf59573be0f460bea4d3d9509ce5c68408136c239"
 
@@ -1954,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "377719782aa849bb256276e77920184ab586fc59e6cd67ea618374fdf7497270"
+hash = "5aaec1b38d9461d3ce074a6bcbd29241bca555f9da4d8eefcfe33b4ce4c9f5da"
 metafile = true
 
 [[files]]
@@ -2169,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5faf7b091b7751dea2b926041b85aef775b1f197c36d6c33a73926a1e6f5a0a8"
+hash = "8213e465ffb08b983097909cf9c07474bf1f1d344ea45e4c3d11dc7c07df9ecb"
 metafile = true
 
 [[files]]
@@ -2224,7 +2224,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "45b33377f2b22260c9eedd2438c38fde617215966fb0bdb5148142ba2d301b58"
+hash = "7ae9334285cde38357e84a3cfbd346e2616ad93292382e1bc7b305bc59b9236f"
 metafile = true
 
 [[files]]
@@ -2294,7 +2294,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "d2288d45b7c5fddc25166f3ec9fcaab3955b7e79865e7593039a6680c45369d7"
+hash = "4ea3c6d927cf5bebe5661f1bbea30533271103137742b104e135823d07b497d1"
 metafile = true
 
 [[files]]
@@ -2444,12 +2444,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "e4361f98470cfaf1e7962c196ea842e88401e37b8cc09983049f2a7d5fbca047"
+hash = "ce53103abf7f065fe965bfad755232e65add707246e53e371d8ab0fae816cba3"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "45eaea6011771733069d12968023b77cd1c6addfa7ed7e96db6d1a8194b92534"
+hash = "26a772404a126c9d8c1d74ca302a7ae9768e57a9570a19cdef4add865f1e58bb"
 metafile = true
 
 [[files]]
@@ -2484,7 +2484,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "06df71ffe9089e0290a645fee01a12222a89734e9ca57554b7824b8874a31b00"
+hash = "b12b89e66a4c0fb46de45da9265d92790e07c922e1c2cae6c405fbe188d8be79"
 metafile = true
 
 [[files]]
@@ -2540,6 +2540,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "ad39b6fb2bc55933c421297e8ecf931d82dcb056a5513ba3f3b407fdeaef7b02"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "8db43c90ffb5b4d4deb7746384b13f6a7eb52f4f95dcd53982fce3e28694113b"
 metafile = true
 
 [[files]]
@@ -2879,7 +2884,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiplayer-server-pause-forge.pw.toml"
-hash = "c42cb4a7a9becc2a152aabdcbe0ec79b3363bea612f1be9d6f771e3f4458bb32"
+hash = "151be7819c7a13ffc01c0748b09113c01c3965a62955dacc0ef50af6f0864412"
 metafile = true
 
 [[files]]
@@ -3384,7 +3389,7 @@ metafile = true
 
 [[files]]
 file = "mods/tact.pw.toml"
-hash = "ee6c53424e09976aff2c0d0e48ea19ac829613692b796814519cba8517f6d7a9"
+hash = "4cfcc0dcf2bd550ddd0e1eb64eb7afe740c8e38a9626708ebd803500748c4c9d"
 metafile = true
 
 [[files]]
@@ -3500,11 +3505,6 @@ metafile = true
 [[files]]
 file = "mods/village-healthcare.pw.toml"
 hash = "729f7020a9c3d010e19e3dae7188a787df5f4ef9c18c2f07cf0696dde2584b7c"
-metafile = true
-
-[[files]]
-file = "mods/villagerquests.pw.toml"
-hash = "d2f9998f9c2b5844eeb666f0c677704b8138fbc44755e34121e5e73b0c6fd6da"
 metafile = true
 
 [[files]]
