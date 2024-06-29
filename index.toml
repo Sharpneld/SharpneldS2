@@ -3038,11 +3038,6 @@ hash = "294365fa5203f0da565cb7c00475d9184c0375e995859ce73006db7c61450071"
 metafile = true
 
 [[files]]
-file = "mods/piglin-proliferation.pw.toml"
-hash = "302beea0c8e8c9b0e74ae63512f8bcbc19baf04ed0d54cbd86c96fcf83d7e872"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true

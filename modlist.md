@@ -284,7 +284,6 @@
 - [Patchouli](https://modrinth.com/mod/nU0bVIaL/version/JMtc0mTS)
 - [Peeping Creepers](https://www.curseforge.com/minecraft/mc-mods/peeping-creepers/files/3870854)
 - [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui/files/5393101)
-- [Piglin Proliferation](https://www.curseforge.com/minecraft/mc-mods/piglin-proliferation/files/5470543)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo/files/5414631)
 - [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator/files/4587214)
 - [Property Modifier](https://www.curseforge.com/minecraft/mc-mods/property-modifier/files/4661543)
