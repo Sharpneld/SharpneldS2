@@ -23,10 +23,5 @@
     "separation": 8,
     "spacing": 35
   },
-  "structures": [
-    {
-      "structure": "valhelsia_structures:castle_ruin",
-      "weight": 1
-    }
-  ]
+  "structures": []
 }
