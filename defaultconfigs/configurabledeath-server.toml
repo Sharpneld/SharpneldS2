@@ -7,7 +7,7 @@
 	#Should players keep their armor on death?
 	keepArmor = true
 	#Should players keep their non-mainhand hotbar items on death?
-	keepHotbar = false
+	keepHotbar = true
 	#Should players keep their mainhand item on death?
 	keepMainhand = true
 	#Should players keep their offhand item on death?

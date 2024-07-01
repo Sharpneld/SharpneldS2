@@ -6,17 +6,17 @@
 	// Time in ticks that regeneration should wait after taking damage
 	"regenDelay": 200,
 	// Time in seconds after spawning before sprinting is disabled
-	"respawnGracePeriod": 300,
+	"respawnGracePeriod": 600,
 	// Extra speed given when your hearts are full (0 to disable)
-	"speedBoost": 0.20000000298023224,
+	"speedBoost": 0.2,
 	// Number of hearts to start with
-	"startingHealth": 3,
+	"startingHealth": 6,
 	// Number of food slots (range 2-5, default 3)
 	"maxSlots": 3,
 	// Percentage remaining before you can eat again
-	"eatAgainPercentage": 0.20000000298023224,
+	"eatAgainPercentage": 0.3,
 	// Boost given to other foods when drinking
-	"drinkSlotFoodEffectivenessBonus": 0.10000000149011612,
+	"drinkSlotFoodEffectivenessBonus": 0.15,
 	// Simulate food ticking down during night
 	"passTicksDuringNight": true,
 	/*     Food nutrition and effect overrides (Auto Generated if Empty)

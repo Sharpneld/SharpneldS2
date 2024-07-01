@@ -51,10 +51,10 @@
 #Inventory Button Settings
 [inventory_buttons]
 	#The position that the notification & team manager buttons will be placed at in the players inventory.
-	button=152,48
+	button=153,48
 	
 	#The position that the notification & team manager buttons will be placed at in the players creative inventory.
-	buttonCreative=152,3
+	buttonCreative=153,3
 	
 #Chest Button Settings
 [chest_buttons]

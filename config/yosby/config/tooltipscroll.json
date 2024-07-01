@@ -1,6 +1,6 @@
 {
 	"canScroll": false,
-	"useWASD": true,
+	"useWASD": false,
 	"resetOnUnlock": true,
 	"useLShift": true,
 	"scrollSpeed": 10,

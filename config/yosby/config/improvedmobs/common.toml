@@ -13,7 +13,7 @@
 	#Example ["0-0.01","10-0.1","30-0"]
 	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
-	"Difficulty Increase" = ["0-0.1", "250-0"]
+	"Difficulty Increase" = ["0-0.01", "30-0.1", "250-0"]
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
@@ -92,13 +92,13 @@
 	#If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty
 	"Use LevelZ Mod" = true
 	#Using pehkui to vary the size of mobs
-	"Use pehkui Mod" = false
+	"Use pehkui Mod" = true
 	#The Max scale of mobs. Range [1.0,10], default 2.0
 	#Range: 1.0 ~ 10.0
-	"Max size Multiplier" = 2.0
+	"Max size Multiplier" = 1.8
 	#The Minimum scale of mobs. Range (0,1.0), default 0.5
 	#Range: 0.0 ~ 1.0
-	"Minimum size Multiplier" = 0.5
+	"Minimum size Multiplier" = 0.6
 
 #Settings regarding custom ai for mobs
 [ai]
@@ -127,7 +127,7 @@
 	"Idle Break" = false
 	#Chance for a mob to be able to steal items from inventory blocks
 	#Range: 0.0 ~ 1.0
-	"Stealer Chance" = 0.15
+	"Stealer Chance" = 0.10
 	#List of blocks mobs shouldn't steal from. You can also add a modid to blacklist whole mods
 	"Steal Block Blacklist" = []
 	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
@@ -152,7 +152,7 @@
 	"Guardian Chance" = 0.0
 	#Chance for mobs to be able to summon a flying mount
 	#Range: 0.0 ~ 1.0
-	"Phantom Chance" = 0.1
+	"Phantom Chance" = 0.01
 	#By default mobs can only break the block they can harvest with the current tool they holding. Set this to true to disable that check (The block will not drop if they cant harvest it though!).
 	"Ignore Harvest Check" = false
 	#Set this to true to allow tnt thrown by mobs to destroy blocks
@@ -161,9 +161,9 @@
 #Configs regarding mobs spawning with equipment
 [equipment]
 	#Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
-	"Item Blacklist" = ["minecraft", "mythicmetals"]
+	"Item Blacklist" = ["modern_industrialization"]
 	#Use blacklist as whitelist
-	"Item Whitelist" = true
+	"Item Whitelist" = false
 	#Blacklist for items mobs should never be able to use.
 	#Use as in using the item similar to players (e.g. shooting bows)
 	"Item Use Blacklist" = ["bigbrain:buckler"]
