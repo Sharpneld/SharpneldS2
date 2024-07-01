@@ -1,0 +1,38 @@
+{
+  "parent": "create_ore_excavation_plus:vein_finder",
+  "display": {
+    "icon": {
+      "item": "createoreexcavation:extractor"
+    },
+    "title": {
+      "translate": "advancement.create_ore_excavation_plus.extractor"
+    },
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.create_ore_excavation_plus.extractor.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createoreexcavation:extractor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

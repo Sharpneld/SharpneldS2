@@ -1,0 +1,38 @@
+{
+  "parent": "create_ore_excavation_plus:drilling_machine",
+  "display": {
+    "icon": {
+      "item": "createoreexcavation:diamond_drill"
+    },
+    "title": {
+      "translate": "advancement.create_ore_excavation_plus.diamond_drill"
+    },
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.create_ore_excavation_plus.diamond_drill.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createoreexcavation:diamond_drill"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

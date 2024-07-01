@@ -1,0 +1,38 @@
+{
+  "parent": "create_ore_excavation_plus:diamond_drill",
+  "display": {
+    "icon": {
+      "item": "create_ore_excavation_plus:ultimate_drill"
+    },
+    "title": {
+      "translate": "advancement.create_ore_excavation_plus.ultimate_drill"
+    },
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.create_ore_excavation_plus.ultimate_drill.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create_ore_excavation_plus:ultimate_drill"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}
