@@ -49,7 +49,7 @@ const hideEMI = [
     '/citadel:*/',
     '/realmrpg_quests:shell_*/',
     '/daily_rewards:.*/',
-    '/miapi:*/',
+    '/miapi:(?!modular_work_bench).*/',
     '/immersive_weathering:.*_pile/',
     '/immersive_weathering:.*_bark/',
     '/immersive_weathering:waxed_.*/',
@@ -60,7 +60,8 @@ const hideEMI = [
     '/runic_enchanting:.*_rune_block/',
     '/spectrum:.*_head/',
     'spectrum:memory',
-    '/valhelsia_structures:.*/'
+    '/valhelsia_structures:.*/',
+    'mythicmetals:tipped_runite_arrow'
 ]
 
 ServerEvents.tags('item', event => {
