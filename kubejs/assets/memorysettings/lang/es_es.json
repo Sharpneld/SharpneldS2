@@ -1,0 +1,10 @@
+{
+  "warning.32bit": "Estás usando Java de 32 bits en un sistema de 64 bits, por favor instala Java de 64 bits.",
+  "warning.toomuch": "Se ha asignado más memoria (%s MB) de la recomendada para este modpack, el máximo es: %s MB. La cantidad recomendada para tu sistema es: %s MB.\n",
+  "warning.toolow": "Se ha asignado menos memoria (%s MB) de la recomendada para este modpack, el mínimo es: %s MB. La cantidad recomendada para tu sistema es: %s MB.\n",
+  "warning.overrecommended": "Se ha asignado más memoria (%s MB) de la recomendada para tu sistema, la recomendada es: %s MB.\n",
+  "warning.underrecommended": "Se ha asignado menos memoria (%s MB) de la recomendada para tu sistema, la recomendada es: %s MB.\n",
+  "warning.recommendedbelowmin": "La cantidad recomendada (%s MB) para tu sistema es inferior al mínimo requerido de %s MB para este paquete. Puedes experimentar problemas como parones frecuentes.\n",
+  "button.howto": "Abrir guía",
+  "button.stopremind": "Dejar de mostrar"
+}
