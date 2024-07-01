@@ -1246,7 +1246,7 @@ hash = "7c9a5e061f5775068b3e30d1a5218a3ab11939997f615c9528b303a8ead401ae"
 
 [[files]]
 file = "config/yosby/options.txt"
-hash = "c75b9711da7d3e48fd54a7e77cd222779718b5d73f8f6dc359969a87c91962d9"
+hash = "a7b51f4f239a9825950832f94001984e1de19bca7d471a22db509b39ad16e958"
 
 [[files]]
 file = "config/yosby/servers.dat"
@@ -1576,6 +1576,10 @@ hash = "641861095f0c6c10283bc6acda279639739510247dd94fcaba093c8240c290cf"
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "31df53bce91343acd8f6cfccf59573be0f460bea4d3d9509ce5c68408136c239"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "5762b891486a251720711e5ecff2655dc20d430fe3b418335634cba4f47f0034"
 
 [[files]]
 file = "kubejs/disabled/Human_Default.zip"

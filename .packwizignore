@@ -33,6 +33,7 @@
 
 /kubejs/config/*
 !/kubejs/config/client.properties
+!/kubejs/config/defaultoptions.txt
 /kubejs/data/*
 /kubejs/probe/*
 /kubejs/jsconfig.json
