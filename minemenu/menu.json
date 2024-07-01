@@ -1,13 +1,13 @@
 {
   "main": {
     "0": {
-      "title": "Inventory HUD Settings",
+      "title": "Shaders",
       "icon": {
-        "stack": "{Count:1b,id:\"minecraft:diamond_chestplate\",tag:{Damage:0}}"
+        "stack": "{Count:1b,id:\"minecraft:light\"}"
       },
       "action": {
         "key": {
-          "key": "key.inventoryhud.openconfig",
+          "key": "iris.keybind.shaderPackSelection",
           "toggle": false
         }
       }
@@ -15,7 +15,7 @@
     "1": {
       "title": "Abrir Curios",
       "icon": {
-        "stack": "{Count:1b,id:\"l2hostility:ring_of_healing\"}"
+        "stack": "{Count:1b,id:\"spectrum:azure_dike_ring\"}"
       },
       "action": {
         "key": {
@@ -25,9 +25,9 @@
       }
     },
     "2": {
-      "title": "Abrir Cosmeticos",
+      "title": "Abrir Cosméticos",
       "icon": {
-        "stack": "{Count:1b,id:\"l2complements:sculkium_chestplate\",tag:{Damage:0}}"
+        "stack": "{Count:1b,id:\"mythicmetals:tidesinger_chestplate\",tag:{Damage:0}}"
       },
       "action": {
         "key": {
@@ -48,26 +48,14 @@
         }
       }
     },
-    "4": {
-      "title": "Monedero",
-      "icon": {
-        "stack": "{Count:1b,id:\"lightmanscurrency:wallet_copper\"}"
-      },
-      "action": {
-        "key": {
-          "key": "key.wallet",
-          "toggle": false
-        }
-      }
-    },
     "5": {
-      "title": "Historial de Muertes",
+      "title": "Chat de Voz",
       "icon": {
-        "stack": "{Count:1b,id:\"maidensmerrymaking:gravestone_plain\"}"
+        "stack": "{Count:1b,id:\"easy_npc:humanoid_slim_spawn_egg\"}"
       },
       "action": {
         "key": {
-          "key": "key.corpse.death_history",
+          "key": "key.voice_chat",
           "toggle": false
         }
       }
@@ -85,7 +73,7 @@
       }
     },
     "7": {
-      "title": "Crear Team",
+      "title": "Crear Equipo",
       "icon": {
         "stack": "{Count:1b,id:\"minecraft:player_head\"}"
       },
@@ -99,7 +87,7 @@
     "8": {
       "title": "Jade Config",
       "icon": {
-        "stack": "{Count:1b,id:\"silentgear:jeweler_tools\"}"
+        "stack": "{Count:1b,id:\"minecraft:grass_block\"}"
       },
       "action": {
         "key": {
@@ -109,13 +97,13 @@
       }
     },
     "9": {
-      "title": "Habilidades Epic Fight",
+      "title": "Abrir Monedero",
       "icon": {
-        "stack": "{Count:1b,id:\"minecraft:written_book\"}"
+        "stack": "{Count:1b,id:\"lightmanscurrency:wallet_netherite\",tag:{}}"
       },
       "action": {
         "key": {
-          "key": "key.epicfight.skill_gui",
+          "key": "key.lightmanscurrency.open_wallet",
           "toggle": false
         }
       }

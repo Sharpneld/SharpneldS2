@@ -1623,7 +1623,7 @@ hash = "bfdf8c522a27a6865a3b7c1e1864ecadf75c3330c2b47b566aa851aa759e36b1"
 
 [[files]]
 file = "minemenu/menu.json"
-hash = "0d287982462597bca1cf08c107bd5cb7b44d5c11fbc737c1388328e20021eafa"
+hash = "28ac79f91049456bc191aeea964f8deaa1b4eee047a60b650add5441536009eb"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -2836,6 +2836,11 @@ hash = "c02c7dcaa1eaf42782ee5af6016f608484fb31733e324d9474ffa4431c46c52a"
 metafile = true
 
 [[files]]
+file = "mods/minemenu.pw.toml"
+hash = "15b4d5978d62a45d63626d4aa51d772e0aa5cda41c77eac3e15088c093b88d1e"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "bce56a595682b811d74cc4e30a0104927723a4375135d255d3cdfa158b2a0669"
 metafile = true
@@ -3696,4 +3701,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "2c9be2935a497a2e56dd98cb2b09f10a532915e15a3c3b34fc03e6b19c461d57"
+hash = "968bb66f7d37ba2e148e68290be25bf20cac27812af6537abe0f551a4c38cc63"

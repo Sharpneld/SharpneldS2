@@ -84,8 +84,6 @@ flavors = ["normal", "extreme"]
 flavors = ["normal", "extreme"]
 [metafile.oculus]
 flavors = ["normal", "extreme"]
-[metafile.minemenu]
-flavors = ["normal", "extreme"]
 [metafile.mouse-tweaks]
 flavors = ["normal", "extreme"]
 
