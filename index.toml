@@ -1611,7 +1611,7 @@ hash = "9aacfcaeb9a6e277670a787082df520d23580effe50dec3ba15b33f75a1e0401"
 
 [[files]]
 file = "kubejs/kubejs.zip"
-hash = "a6800ed76c84817c89da5c28e9770cb8fa652365701ef58f0c68d3e594febf0b"
+hash = "d35ebbf456a6b382ef88f68d36b448ca3258d8e0ab2f3d26d1827e164857108e"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -1701,7 +1701,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "2710c164d86dae84f4a5b1608e15379955ba1b51b34daec38a4cb9c675e841f0"
+hash = "b635eb5bfbf390e6916be9d0d7dd903ce31f812864dd17e2e68ebf0abcdadf7b"
 metafile = true
 
 [[files]]
@@ -1726,7 +1726,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "2136bf5f48e926873614b362060286febb95fb9baea63fd6f8b5c854be75cf85"
+hash = "63b91450f071765252995689ec91545c92c06f44c2e72a51a934333dab176590"
 metafile = true
 
 [[files]]
@@ -2596,7 +2596,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "0808a2e0f30d8ec20508d77b10ee4412a3d3d5978385ba37b2234b994f72baea"
+hash = "4c8099b44df7a95fd6a2fb52aa201284a2a7bd1ea8a22f0c3158a2eb5ff8e599"
 metafile = true
 
 [[files]]
@@ -2681,7 +2681,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4fb96ce009fd57f844f5619c5e451effcfdf91b2379f58b1d19d88eeeb29e42f"
+hash = "679059362ea6690a33990d47b2d674ae72e94a53bc70213cd37baee3593e4fd9"
 metafile = true
 
 [[files]]
@@ -3705,4 +3705,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "968bb66f7d37ba2e148e68290be25bf20cac27812af6537abe0f551a4c38cc63"
+hash = "4cc2887d5a46ef2e04174e25aaa01a10985decc75c9d266e82263d570a96570c"
