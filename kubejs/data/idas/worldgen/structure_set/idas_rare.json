@@ -27,6 +27,18 @@
     {
       "structure": "idas:tree_of_wisdom",
       "weight": 1
+    },
+    {
+      "structure": "idas:iceandfire/dread_citadel",
+      "weight": 3
+    },
+    {
+      "structure": "idas:tinkers_citadel",
+      "weight": 3
+    },
+    {
+      "structure": "idas:ars_nouveau/archmages_tower",
+      "weight": 3
     }
   ],
   "placement": {

@@ -45,6 +45,14 @@
       "weight": 5
     },
     {
+      "structure": "idas:dig_site/dig_site",
+      "weight": 5
+    },
+    {
+      "structure": "idas:dig_site/dig_site_desert",
+      "weight": 5
+    },
+    {
       "structure": "idas:witches_treestump",
       "weight": 3
     },
@@ -70,7 +78,7 @@
     }
   ],
   "placement": {
-    "salt": 18763442,
+    "salt": 169480670,
     "spacing": 20,
     "separation": 17,
     "type": "integrated_api:advanced_random_spread",
