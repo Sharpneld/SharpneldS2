@@ -1,13 +1,13 @@
 name = "Call of Yucatán"
-filename = "call_of_yucutan-1.0.9-forge-1.20.1.jar"
+filename = "call_of_yucatan-1.0.10-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b289d821b6b36f3397e35e224a40c9263e3284e3"
+hash = "c91fd4a1d29c5218d113b19cb95dcd23ae3887c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5463066
+file-id = 5486767
 project-id = 1023668

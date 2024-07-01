@@ -1,7 +1,0 @@
-name = "custom-npcs"
-filename = "CustomNPCs-1.20.1-GBPort-Unofficial-20240619.jar"
-
-[download]
-url = "https://sharpneld.live/packfiles/CustomNPCs-1.20.1-GBPort-Unofficial-20240619.jar"
-hash-format = "sha256"
-hash = "38b9684252d6b053b9e665f066d4db892ded6a15604606e8b8f48bb91ea0bd48"

@@ -17,7 +17,7 @@ description = "Recomendado asignar 6GB de RAM al MC y tener una grafica dedicada
 
 [flavor_groups.minimap]
 name = "Minimapa"
-description = "Que minimapa quieres usar? El modpack ya incluye un minimapa basico, pero puedes elegir otro si deseas. Tendrás que configurar la tecla que corresponda."
+description = "Que minimapa quieres usar? El modpack ya incluye un minimapa basico, pero puedes elegir otro si deseas. Se deben configurar los controles."
 side = "client"
 [[flavor_groups.minimap.choices]]
 id = "nominimap"
@@ -115,8 +115,6 @@ flavors = ["normal", "extreme"]
 flavors = ["normal", "extreme"]
 [metafile.jade]
 flavors = ["normal", "extreme"]
-[metafile.loot-beams]
-flavors = ["normal", "extreme"]
 [metafile.clean-tooltips]
 flavors = ["normal", "extreme"]
 [metafile.overflowing-bars]
@@ -133,10 +131,14 @@ flavors = ["normal", "extreme"]
 flavors = ["normal", "extreme"]
 [metafile.catalogue]
 flavors = ["normal", "extreme"]
+[metafile.dynamiclights-reforged]
+flavors = ["normal", "extreme"]
+[metafile.equipment-compare]
+flavors = ["normal", "extreme"]
+[metafile.cave-dust]
+flavors = ["normal", "extreme"]
 
 [metafile.bigshot]
-flavors = ["extreme"]
-[metafile.ambient-environment]
 flavors = ["extreme"]
 [metafile.ambientsounds]
 flavors = ["extreme"]
@@ -167,8 +169,6 @@ flavors = ["extreme"]
 [metafile.model-gap-fix]
 flavors = ["extreme"]
 [metafile.light-overlay]
-flavors = ["extreme"]
-[metafile.equipment-compare]
 flavors = ["extreme"]
 [metafile.dark-mode-everywhere]
 flavors = ["extreme"]
