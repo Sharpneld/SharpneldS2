@@ -14,7 +14,7 @@
       "tag": "forge:leather"
     },
     "S": {
-      "tag": "forge:string"
+      "item": "ars_nouveau:magebloom_fiber"
     }
   },
   "pattern": [
