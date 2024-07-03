@@ -1776,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "4ac2f8911ac7effe51bd2535d7452c667876e469072f15686c13ea8fec68436b"
+hash = "af9dbc866ba3237cd7535d6197e9f0263da2b458dd265177dff79109cd943dee"
 metafile = true
 
 [[files]]
@@ -1946,7 +1946,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "36a30c578a82b17bdb36c4b91077d5f10ef1778c59b613808811c7ef9cc96fad"
+hash = "697a2cb75b5087485042500ca405c2a599fc06fed7214232bd09de6a09419a5e"
 metafile = true
 
 [[files]]
@@ -2241,7 +2241,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7f20560b8c13e7067d52427cfa0e2c480cc1d8939412ee478f6cee1b4feb5608"
+hash = "7f0f38bf5470613668913263b716fc3eb5afc4b141e3e704121be4489fbafd39"
 metafile = true
 
 [[files]]
@@ -2261,7 +2261,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7ae9334285cde38357e84a3cfbd346e2616ad93292382e1bc7b305bc59b9236f"
+hash = "02788f27851f6ad04f6292768515efc5c4af4785a2406e1747060d9fcf998da9"
 metafile = true
 
 [[files]]
@@ -2557,11 +2557,6 @@ metafile = true
 [[files]]
 file = "mods/guild.pw.toml"
 hash = "9a21043f8fa708733b7d453673abac7880990688546cd0574cb0fb207363601f"
-metafile = true
-
-[[files]]
-file = "mods/hexerei.pw.toml"
-hash = "f4c54e38d0213f7e073ff49427f364431dbbe2f8d7b80e140e2da2b077ae306c"
 metafile = true
 
 [[files]]
@@ -2976,7 +2971,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "d9540584ede9a6258b54ee7edd452913656b36d6292c53d176d5548a038345a7"
+hash = "27389f0066ee6f400debc1faa656a6763485374cfff79fb4aca2b78c10281a33"
 metafile = true
 
 [[files]]
@@ -3116,7 +3111,7 @@ metafile = true
 
 [[files]]
 file = "mods/quality-equipment.pw.toml"
-hash = "bb7b6a16a5f50946ff8c73fe975f6ad67d0986a17678bc72f15bdc6624dcc10d"
+hash = "63b6491112e53d5aafdf1a7b886829e6bda03c251424af23461d33d31750fe4d"
 metafile = true
 
 [[files]]

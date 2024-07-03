@@ -1,13 +1,13 @@
 name = "Quality Equipment"
-filename = "quality_equipment-1.3-forge_neoforge-1.20.1.jar"
+filename = "quality_equipment-1.4-forge_neoforge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "715d2e43af7638a8df3eda3042e3e3099127b2ff"
+hash = "7fd798069eb69f7b6a02606fc58a78b7807bfad2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5441590
+file-id = 5496002
 project-id = 667174
