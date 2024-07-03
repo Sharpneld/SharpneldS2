@@ -1337,10 +1337,6 @@ file = "defaultconfigs/witherstormmod-server.toml"
 hash = "56bd1e7eabf2dcb7407ff25ca44649d26ecea333364cdb9854a53924db644fe8"
 
 [[files]]
-file = "import.txt"
-hash = "5365b461b4c6d77d33ae5102f0d1c20da5bc8e543049e478b16e6ce52366f42b"
-
-[[files]]
 file = "kubejs/assets/1.first.zip"
 hash = "4dc8cc165a6ba3635d969fdb2ac72241aa09c21ba32bd4bfc153c806ccd41aae"
 
@@ -1580,38 +1576,6 @@ hash = "31df53bce91343acd8f6cfccf59573be0f460bea4d3d9509ce5c68408136c239"
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "5762b891486a251720711e5ecff2655dc20d430fe3b418335634cba4f47f0034"
-
-[[files]]
-file = "kubejs/disabled/Human_Default.zip"
-hash = "8694f9cbf99878d90639e85e8357f78065a44be5f817e9f9aecf00f2f9cf71db"
-
-[[files]]
-file = "kubejs/disabled/hexerei/worldgen/structure_set/baba_yaga_hut.json"
-hash = "a58d6651de66db29a5f0d8360dc175c5c9bfc8ab21730e36e1d7cb924dcb3efb"
-
-[[files]]
-file = "kubejs/disabled/hexerei/worldgen/structure_set/dark_coven.json"
-hash = "1dcf0fb7af36eecc8d7a8e89b2f0bc2a0cf0c51550697d17b798aa90f4e1c508"
-
-[[files]]
-file = "kubejs/disabled/hexerei/worldgen/structure_set/nature_coven.json"
-hash = "9257735df50a10b3b4b3f9db582210e6f9e7d63d0023be5f3875782698b9a1eb"
-
-[[files]]
-file = "kubejs/disabled/hexerei/worldgen/structure_set/witch_hut.json"
-hash = "0e601e2378d86afb6252feedc3842e45125df8c301cf00c5e773851e2deccd4b"
-
-[[files]]
-file = "kubejs/disabled/integrated_stronghold_config.zip"
-hash = "1288231c1d2bcf3cd6e0cfb53eaee594c6273da5058f7326962eb2d40111535a"
-
-[[files]]
-file = "kubejs/disabled/numismatic-overhaul/tags/entity_types/the_bourgeoisie.json"
-hash = "9aacfcaeb9a6e277670a787082df520d23580effe50dec3ba15b33f75a1e0401"
-
-[[files]]
-file = "kubejs/kubejs.zip"
-hash = "d35ebbf456a6b382ef88f68d36b448ca3258d8e0ab2f3d26d1827e164857108e"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

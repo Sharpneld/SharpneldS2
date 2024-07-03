@@ -34,6 +34,7 @@
 /kubejs/config/*
 !/kubejs/config/client.properties
 !/kubejs/config/defaultoptions.txt
+/kubejs/disabled/**
 /kubejs/data/*
 /kubejs/probe/*
 /kubejs/jsconfig.json
@@ -47,6 +48,7 @@
 *.md
 *.disabled
 input.txt
+import.txt
 /kubejs/README.txt
 
 !/unsup.toml
